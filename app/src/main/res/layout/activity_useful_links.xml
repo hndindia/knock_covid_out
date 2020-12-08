@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/background"
+    android:layout_height="match_parent"
+    tools:context=".UsefulLinks">
+
+   <LinearLayout
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="30dp"
+           android:fontFamily="@font/actor"
+           android:text="@string/UsefulLinks"
+
+           android:textAlignment="center"
+           android:textColor="@color/Texts_color"
+           android:textSize="20dp"
+           android:textStyle="bold" />
+
+
+       <Button
+           android:layout_width="256dp"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="50dp"
+           android:background="@drawable/custom_button"
+           android:fontFamily="@font/actor"
+           android:onClick="covid"
+           android:text="@string/GOOGLE"
+           android:textColor="@color/white" />
+
+       <Button
+           android:layout_width="256dp"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="50dp"
+           android:background="@drawable/custom_button"
+           android:fontFamily="@font/actor"
+           android:onClick="global"
+           android:text="@string/GLOBAL"
+           android:textColor="@color/white" />
+
+       <Button
+           android:layout_width="256dp"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="50dp"
+           android:textColor="@color/white"
+           android:background="@drawable/custom_button"
+           android:onClick="who"
+
+           android:text="@string/WHO" />
+
+       <Button
+           android:layout_width="256dp"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="50dp"
+           android:background="@drawable/custom_button"
+           android:textColor="@color/white"
+           android:onClick="nph"
+           android:text="NIC CG" />
+
+       <Button
+           android:layout_width="256dp"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="50dp"
+           android:textColor="@color/white"
+           android:background="@drawable/custom_button"
+           android:onClick="mohfw"
+           android:text="@string/MOHNFW" />
+
+   </LinearLayout>
+</ScrollView>

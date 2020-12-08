@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Module.TwitterHandels"
+    android:background="@drawable/background"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Here are some useful Twitter handles to keep you up to date about covid - 19"
+        android:textColor="@color/Texts_color"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp" />
+        <Button
+            android:id="@+id/ModiJi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="13"
+            android:layout_marginTop="30dp"
+            android:text="PM Narendra Modi ji"
+            android:textAllCaps="false"
+            />
+
+        <Button
+            android:id="@+id/PIB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="13"
+            android:text="Press Information Bureau"
+            android:textAllCaps="false"
+              android:layout_marginTop="20dp"
+            />
+        <Button
+            android:id="@+id/PibFacts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="13"
+            android:text="PIB Facts"
+            android:textAllCaps="false"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/PibHindi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="13"
+            android:text="PIB Hindi"
+            android:textAllCaps="false"
+            android:layout_marginTop="20dp"
+            />
+
+      <Button
+            android:id="@+id/NationalInformaticsCentre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="13"
+            android:text="National Informatics Centre"
+            android:textAllCaps="false"
+            android:layout_marginTop="20dp"
+            />
+
+  <Button
+      android:id="@+id/IndiaFightsCorona"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:ems="13"
+      android:text="India Fights Corona"
+      android:textAllCaps="false"
+      android:layout_marginTop="20dp"
+      />
+  <Button
+      android:id="@+id/StartUp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:ems="13"
+      android:text="Startup India"
+      android:textAllCaps="false"
+      android:layout_marginTop="20dp"
+      />
+
+  <Button
+      android:id="@+id/WHO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="13"
+      android:text="World Health Organisation"
+      android:textAllCaps="false"
+            android:layout_marginTop="20dp"
+      android:layout_marginBottom="20dp"
+            />
+
+
+    </LinearLayout>
+</ScrollView>
+
+
+
+
+
+<!--<GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="3"
+        android:alignmentMode="alignMargins"
+        android:columnOrderPreserved="false"
+        android:layout_marginTop="20dp"
+        >
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+            >
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center"
+              android:text="PIB Facts"
+              />
+
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PIB Facts"
+                />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PIB Facts"
+                />
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PIB Facts"
+                />
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PIB Facts"
+                />
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PIB Facts"
+                />
+        </androidx.cardview.widget.CardView>
+  <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PIB Facts"
+                />
+        </androidx.cardview.widget.CardView>
+  <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            app:cardCornerRadius="12dp"
+            android:layout_margin="12dp"
+            app:cardBackgroundColor="@color/CardView"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="PIB Facts"
+                />
+        </androidx.cardview.widget.CardView>
+
+    </GridLayout>
+-->

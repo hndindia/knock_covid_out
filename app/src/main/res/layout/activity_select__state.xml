@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/LowerBackground"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Select_State.Select_State">
+
+<!--    <NumberPicker-->
+<!--        android:id="@+id/country_picker"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        >-->
+<!--    </NumberPicker>-->
+
+    <ImageView
+        android:id="@+id/INDIA_STATE"
+        android:layout_width="match_parent"
+        android:layout_height="305dp"
+         />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+
+    <NumberPicker
+        android:id="@+id/state_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:solidColor="@color/LowerBackground"
+        android:theme="@style/AppTheme.Picker"
+        android:layout_marginTop="15dp"
+       />
+    <NumberPicker
+        android:id="@+id/district"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:solidColor="@color/LowerBackground"
+        android:theme="@style/AppTheme.Picker"
+        android:layout_marginTop="15dp"
+        />
+
+</LinearLayout>
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="19dp"
+        android:alpha="0"
+        android:clickable="false"
+        android:onClick="submit"
+        android:text="@string/submit"
+        />
+
+
+
+</LinearLayout>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            xmlns:tools="http://schemas.android.com/tools"
+            tools:context=".Main_Fragment.moreFragment"
+            android:background="@color/LowerBackground"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/more_fragment"
+    >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+<!--        <Button-->
+<!--                android:id="@+id/ContactForHeld"-->
+<!--                android:layout_width="256dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                 android:textColor="@color/white"-->
+<!--                android:layout_marginTop="25dp"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:text="@string/Contact_for_help"-->
+
+<!--                />-->
+
+
+        <Button
+                android:id="@+id/CheckSymptom"
+                android:layout_width="256dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:text="@string/Symptom"
+
+              />
+
+
+                <Button
+                android:id="@+id/Myth_busters"
+                android:layout_width="256dp"
+                android:layout_height="50dp"
+                android:textColor="@color/white"
+
+                android:text="@string/Myth_busters"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+
+                />
+<!--             <Button-->
+<!--                android:id="@+id/GeneralAwareness"-->
+<!--                android:layout_width="256dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:layout_marginTop="30dp"-->
+<!--                android:text="@string/GA"-->
+<!--               />-->
+
+        <Button
+                android:id="@+id/PreventionProduct"
+                android:layout_width="256dp"
+                android:layout_height="46dp"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:text="@string/PP"
+                />
+
+
+
+
+
+<!--                <Button-->
+<!--                    android:id="@+id/coronaHospitals"-->
+<!--                    android:layout_width="256dp"-->
+<!--                    android:layout_height="50dp"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:text="@string/Corona_Hospitals"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginTop="30dp"-->
+
+<!--                    />-->
+
+
+<!--                <Button-->
+<!--                    android:id="@+id/whatsapp"-->
+<!--                    android:layout_width="256dp"-->
+<!--                    android:onClick="sendIT"-->
+<!--                    android:layout_height="50dp"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:text="@string/who_whatsaap_chat_bot"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginTop="30dp"-->
+<!--                    tools:ignore="OnClick" />-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/DONATION_STATE"-->
+<!--                    android:layout_width="256dp"-->
+<!--                    android:layout_height="50dp"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:text="@string/Donation_state"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_marginTop="30dp"-->
+<!--                    />-->
+
+                <Button
+                    android:id="@+id/UsefulLinks"
+                    android:layout_width="256dp"
+                    android:layout_height="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:textColor="@color/white"
+                    android:text="@string/Useful_links"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="30dp"
+                    />
+
+
+            </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
+

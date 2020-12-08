@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <corners android:radius="50dp" />-->
+
+
+<!--    <solid android:color="#003333" />-->
+
+<!--</shape>-->
+<!--<solid android:color="#FFFFFF"/>-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/button_pressed" />
+
+    <item
+        android:drawable="@drawable/default_button" />
+</selector>

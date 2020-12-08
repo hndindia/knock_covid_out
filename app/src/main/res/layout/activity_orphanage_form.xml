@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Module.OrphanageForm"
+    android:background="@drawable/background"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        >
+        <EditText
+            android:id="@+id/OrphanageName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="text"
+            android:hint="Orphanage name*"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="10dp"
+            />
+        <EditText
+            android:id="@+id/OrphanageRegistrationNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="number"
+            android:hint="Orphanage registration number*"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/news_quotes_background"
+            />
+
+        <EditText
+            android:id="@+id/HeadName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="textPersonName"
+            android:hint="Head name*"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+
+            />
+
+
+        <EditText
+            android:id="@+id/PhoneNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="number"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            android:maxLength="10"
+            android:hint="Contact number*"
+            />
+
+        <EditText
+            android:id="@+id/City"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="text"
+            android:hint="City*"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            />
+
+        <EditText
+            android:id="@+id/PinCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="number"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            android:maxLength="10"
+            android:hint="Pin code*"
+            />
+
+        <EditText
+            android:id="@+id/NoOfOrphan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="number"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            android:maxLength="10"
+            android:hint="Number of orphans*"
+            />
+
+
+        <EditText
+            android:id="@+id/AnyNeed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="textMultiLine"
+            android:hint="Any specific need*"
+            android:layout_gravity="center"
+            android:scrollbars="vertical"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            />
+
+
+        <EditText
+            android:id="@+id/Address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="14"
+            android:inputType="textMultiLine"
+            android:hint="address*"
+            android:layout_gravity="center"
+            android:scrollbars="vertical"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            />
+
+
+        <CheckBox
+            android:id="@+id/OrphanageCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="18"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:text="@string/OrphanageCheckBox"
+            />
+
+        <Button
+            android:id="@+id/submitOrphanageForm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:ems="14"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="50dp"
+            />
+
+    </LinearLayout>
+
+
+</ScrollView>

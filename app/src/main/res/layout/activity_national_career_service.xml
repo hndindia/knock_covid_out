@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Module.NationalCareerServiceActivity"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    >
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:rowCount="3"
+            android:alignmentMode="alignMargins"
+            android:columnOrderPreserved="false"
+            android:layout_marginTop="80dp"
+            >
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp"
+                app:cardBackgroundColor="@color/find_jobs"
+                >
+                <LinearLayout
+
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+
+                    >
+
+                    <ImageView
+                        android:id="@+id/findJobs"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/module_find_jobs"
+
+                        />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:layout_rowWeight="1"
+               android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp"
+        app:cardBackgroundColor="@color/jobs_for_women"
+
+        >
+                <LinearLayout
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <ImageView
+                        android:id="@+id/jobsForWomen"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/module_jobsforwomen"
+                        />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+ <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp"
+                app:cardBackgroundColor="@color/jobs_for_disable"
+                >
+                <LinearLayout
+                    android:id="@+id/linearLayout"
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+
+                    >
+                    <ImageView
+                        android:id="@+id/jobsForDisable"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/module_jobs_for_disable"
+
+                        />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+         <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:layout_rowWeight="1"
+               android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp"
+               app:cardBackgroundColor="@color/gov_jobs"
+
+                >
+                <LinearLayout
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <ImageView
+                        android:id="@+id/govtJobs"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/module_gov_jobs"
+                        />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp"
+                app:cardBackgroundColor="@color/career_info"
+
+                >
+                <LinearLayout
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+
+                    >
+                    <ImageView
+                        android:id="@+id/careerInfo"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/module_career_info"
+                        />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        app:cardCornerRadius="12dp"
+        android:layout_margin="12dp"
+        app:cardBackgroundColor="@color/career_counselling"
+        >
+                <LinearLayout
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <ImageView
+                        android:id="@+id/careerCounseling"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/module_career_counss"
+                        />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+
+    <TextView
+        android:id="@+id/NCSLink_id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/actor"
+        android:text="@string/module_ncs"
+        android:textAlignment="center"
+        android:textColor="@color/Texts_color"
+        android:textColorLink="@color/Hospital"
+        android:gravity="bottom"
+        android:textSize="16sp" />
+
+</LinearLayout>
+
+
+
+

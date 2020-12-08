@@ -1,0 +1,2 @@
+rootProject.name='sora_1.1'
+include ':app'

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layout_id"
+    android:gravity="center">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="25dp"
+            >
+
+            <TextView
+                android:id="@+id/link_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/Texts_color"
+                android:textColorLink="@color/Hospital"
+                android:text="@string/mizoram_link1"
+                android:textAlignment="textStart"
+                />
+
+            <TextView
+                android:id="@+id/link_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/link_1"
+                android:layout_marginTop="20dp"
+                android:text="@string/mizoram_link2"
+                android:textColor="@color/Texts_color"
+                android:textColorLink="@color/Hospital"
+                android:textAlignment="textStart"
+                />
+
+            <TextView
+                android:id="@+id/link_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/link_2"
+                android:layout_marginTop="20dp"
+                android:text="@string/mizoram_link3"
+                android:textColor="@color/Texts_color"
+                android:textColorLink="@color/Hospital"
+                android:textAlignment="textStart"
+                />
+
+            <TextView
+                android:id="@+id/link_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/link_3"
+                android:layout_marginTop="20dp"
+                android:text="@string/mizoram_link4"
+                android:textColor="@color/Texts_color"
+                android:textColorLink="@color/Hospital"
+                android:textAlignment="textStart"
+                />
+
+
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

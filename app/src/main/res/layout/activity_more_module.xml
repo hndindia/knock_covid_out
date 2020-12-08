@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Module.MoreModule"
+
+    android:background="@drawable/background"
+    >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        >
+
+    <Button
+        android:id="@+id/CheckSymptom"
+        android:layout_width="256dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/Symptom"
+        android:textAllCaps="false"
+        android:onClick="checkSymptom"
+        />
+
+
+    <Button
+        android:id="@+id/Myth_busters"
+        android:layout_width="256dp"
+        android:layout_height="50dp"
+        android:textColor="@color/white"
+        android:onClick="mythBuster"
+        android:text="@string/Myth_busters"
+        android:textAllCaps="false"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+
+        />
+    <!--             <Button-->
+    <!--                android:id="@+id/GeneralAwareness"-->
+    <!--                android:layout_width="256dp"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:textColor="@color/white"-->
+    <!--                android:layout_gravity="center"-->
+    <!--                android:layout_marginTop="20dp"-->
+    <!--                android:text="@string/GA"-->
+    <!--               />-->
+
+    <Button
+        android:id="@+id/PreventionProduct"
+        android:layout_width="256dp"
+        android:layout_height="46dp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:onClick="preventionProduct"
+        android:text="@string/PP"
+        android:textAllCaps="false"
+        />
+
+
+        <Button
+            android:id="@+id/ShareIdea"
+            android:layout_width="256dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="30dp"
+            android:textColor="@color/white"
+            android:text="Share your Ideas and Suggestions "
+            android:textAllCaps="false"
+            android:layout_gravity="center"
+            android:onClick="ShareIdea"
+            android:layout_marginTop="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/QuizOnCovid"
+            android:layout_width="256dp"
+            android:layout_height="50dp"
+            android:textColor="@color/white"
+            android:text="Take a pledge"
+            android:textAllCaps="false"
+            android:layout_gravity="center"
+            android:onClick="TakeAPledge"
+            />
+
+     <Button
+         android:id="@+id/usefulTwitterHandles"
+            android:layout_width="256dp"
+            android:layout_height="50dp"
+            android:textColor="@color/white"
+            android:text="Useful Twitter Handles"
+            android:textAllCaps="false"
+            android:layout_gravity="center"
+            android:onClick="usefulTwitterHandles"
+            android:layout_marginTop="20dp"
+            />
+
+<!--     <Button-->
+<!--         android:id="@+id/PIB_facts_checks"-->
+<!--            android:layout_width="256dp"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:text="PIB Facts check"-->
+<!--            android:textAllCaps="false"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:onClick="PIBFactsCheck"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            />-->
+
+
+
+
+        <Button
+        android:id="@+id/UsefulLinks"
+        android:layout_width="256dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="30dp"
+        android:textColor="@color/white"
+        android:text="@string/Useful_links"
+        android:textAllCaps="false"
+        android:layout_gravity="center"
+        android:onClick="usefulLinks"
+        android:layout_marginTop="20dp"
+        />
+
+    </LinearLayout>
+
+</ScrollView>

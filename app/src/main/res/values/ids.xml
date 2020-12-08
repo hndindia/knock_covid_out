@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="callLayout" />
+
+
+    <item type="id" name="DistrictName" />
+    <item type="id" name="DistrictConfirmed" />
+    <item type="id" name="DistrictRecovered" />
+    <item type="id" name="DistrictDeath" />
+    <item type="id" name="DistrictActive" />
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#001a1a</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Black">#000000</color>
+    <color name="TableHeading">#f1f1f1f1</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="CardView">#00bfff</color>
+<!--    4EA7E1-->
+    <color name="ModuleIcon">#DE2A73</color>
+
+    <color name="LowerBackground">#FFFFFF</color>
+    <color name="ToolBar">#001a1a</color>
+    <color name="ViewLine">#001a1a</color>
+
+
+<!--    f8f8ff-->
+    <color name="MenuBackground">#001a1a</color>
+    <color name="Knock">#fad100 </color>
+
+    <color name="Confirmed">#006400  </color>
+    <color name="Death">#FFFF0022</color>
+    <color name="Hospital">#0000cd </color>
+    <color name="Recover">#66d983 </color>
+<!--    0390ff-->
+    <color name="mail">#FB3030</color>
+    <color name="twitter">#53DCED</color>
+    <color name="fb">#0523CD</color>
+    <color name="insta">#FF1665</color>
+    <color name="telegram">#53DCED</color>
+
+    <color name="Fab_button">#24d366</color>
+    <color name="Fab_button1">#128c7e</color>
+<!--    #128c7e-->
+
+    <color name="Transparent">#00ff001C</color>
+
+    <color name="FAB_TEXT_BACKGROUNG">#FFFFFF</color>
+
+<!--    Texts color-->
+    <color name="Texts_color">#000000</color>
+
+    <color name="link_color">#FF0000</color>
+
+<!--    001a1a-->
+
+    <!--     #006666
+    #004d4d
+    #003333		 #001a1a
+
+    #77666A
+     #D5EAF4-->
+        <!--Module - NCS-->
+    <color name="find_jobs">#0069bc</color>
+    <color name="jobs_for_women">#23558a</color>
+    <color name="jobs_for_disable">#3D1F91</color>
+    <color name="gov_jobs">#002929</color>
+    <color name="career_info">#751044</color>
+    <color name="career_counselling">#327DB8</color>
+
+    <color name="linkColor">#0000EE</color>
+</resources>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/LowerBackground"
+    tools:context=".FAQ.FAQ_main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+<GridLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+
+            android:background="@color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="22dp"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/FAQ"
+            android:textColor="@color/Texts_color"
+            android:textSize="24sp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/white" />
+        <androidx.cardview.widget.CardView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            app:cardBackgroundColor="@color/CardView"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="6dp"
+            >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_Q1"
+                    android:textAlignment="center"
+
+                    android:textColor="@color/design_default_color_secondary"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_A1"
+                    android:textAlignment="center"
+
+                    />
+
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            app:cardBackgroundColor="@color/CardView"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="6dp"
+            >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_Q2"
+                    android:textAlignment="center"
+
+                    android:textColor="@color/design_default_color_secondary"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_A2"
+                    android:textAlignment="center" />
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            app:cardBackgroundColor="@color/CardView"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="6dp"
+            >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_Q3"
+                    android:textAlignment="center"
+
+                    android:textColor="@color/design_default_color_secondary"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/actor"
+                    android:paddingTop="20dp"
+                    android:text="@string/FAQ_A3"
+                    android:textAlignment="center" />
+
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            app:cardBackgroundColor="@color/CardView"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="6dp"
+            >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_Q4"
+                    android:textAlignment="center"
+
+                    android:textColor="@color/design_default_color_secondary"
+                    android:textSize="24sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="70dp"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_A4"
+                    android:textAlignment="center" />
+
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            app:cardBackgroundColor="@color/CardView"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="6dp"
+            >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_Q5"
+                    android:textAlignment="center"
+
+                    android:textColor="@color/design_default_color_secondary"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginBottom="20dp"
+                    android:fontFamily="@font/actor"
+                    android:text="@string/FAQ_A5"
+                    android:textAlignment="center" />
+
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/FOR_MORE_FAQ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/actor"
+            android:onClick="FOR_MORE_FAQ"
+            android:text="@string/FOR_MORE"
+            android:textColor="@color/white"
+           />
+
+</GridLayout>
+
+
+</ScrollView>

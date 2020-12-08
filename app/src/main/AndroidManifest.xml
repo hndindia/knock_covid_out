@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chhattisgarh.sora_11">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Module.StateDonateActivity"></activity>
+        <activity android:name=".Module.travelEpassActivity" />
+        <activity android:name=".SourceMainActivity" />
+        <activity android:name=".Module.TwitterHandels" />
+        <activity android:name=".Module.NationalCareerServiceActivity" />
+        <activity android:name=".LoginActivity_Firebase" />
+        <activity android:name=".Module.MedicalStores" />
+        <activity android:name=".Module.OrphanageForm" />
+        <activity android:name=".Login_Task.Signup" />
+        <activity android:name=".Login_Task.Login" />
+        <activity android:name=".Module.BecomeVolunteer" />
+        <activity android:name=".Module.Courses_Module" />
+        <activity android:name=".Module.MoreModule" />
+        <activity android:name=".ViewProfile" />
+        <activity android:name=".District_Select" />
+        <activity android:name=".Module.Hospitals_List" />
+        <activity android:name=".MAin2Activity" />
+        <activity android:name=".District_Data.DistrictData" />
+        <activity android:name=".Donation_state" />
+        <activity android:name=".Country_Wise_Data" />
+        <activity android:name=".State_Wise_Data" />
+
+        <service android:name=".Fetch_Data.UpdateDataInBackground" />
+
+        <activity android:name=".Select_State.Select_State" />
+        <activity android:name=".Myth_Buster" />
+        <activity android:name=".About.Terms_Of_Uses" />
+        <activity android:name=".About.Terms_And_Conditions" />
+        <activity android:name=".FAQ.FOR_MORE_FAQ" />
+        <activity android:name=".FAQ.FAQ_In_ENG" />
+        <activity
+            android:name=".Corona_Hospitals"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Contact_us"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Splash_And_Story.Story_main"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Splash_And_Story.Splash_animation"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".web_main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UsefulLinks"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Prevention_products.PreventionProducts"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".General_awareness.GeneralAwareness"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Symptom_Precaution"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ContactForHelp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".About.About_main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FAQ.FAQ_main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

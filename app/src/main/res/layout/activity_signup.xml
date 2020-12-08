@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login_Task.Signup"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/imgView_logo"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp"
+        android:src="@drawable/logo2"
+        />
+
+    <TextView
+        android:id="@+id/txt_signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:layout_gravity="center"
+        android:textColor="@color/Black"
+        android:textSize="25sp"
+        android:layout_marginTop="20dp"
+        />
+
+    <EditText
+        android:id="@+id/edt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/news_quotes_background"
+        android:hint="Enter Your Full Name"
+        android:inputType="text"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        />
+
+    <EditText
+
+        android:id="@+id/edt_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/news_quotes_background"
+        android:hint="Enter Your Mobile No."
+        android:inputType="phone"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:layout_marginTop="25dp"
+        />
+
+    <EditText
+        android:inputType="textPassword"
+        android:hint="Enter Your Password"
+        android:id="@+id/edt_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/news_quotes_background"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:layout_marginTop="25dp"
+        />
+
+    <EditText
+        android:inputType="textPassword"
+        android:hint="Re-Enter Your Password"
+        android:id="@+id/edt_confirmpass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/news_quotes_background"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:layout_marginTop="25dp"
+
+        />
+
+    <Button
+        android:id="@+id/btn_signupnow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:text="Signup Now"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        />
+</LinearLayout>

@@ -1,0 +1,415 @@
+<resources>
+    <string name="app_name" translatable="false">KCO:Chhattisgarh</string>
+    <string name="UsefulLinks">Here are some useful websites to keep you up to date about covid-19</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--State names-->
+    <string name="StateName">StateName</string>
+
+    <string name="Tool_bar"><h1 style="color:red;">Knock Covid Out</h1></string>
+    <!--********All Buttons***********-->
+
+
+    <string name="Prevention_products_Hindi">View in hindi</string>
+
+    <string name="Prevention_products_Eng">View in english</string>
+
+    <string name="General_Awareness_Images">Image\'s</string>
+
+    <string name="B_View_in_hindi">View in hindi</string>
+
+    <string name="General_Awareness_Video">Video\'s</string>
+
+    <string name="In_Stats_1">Country stats </string>
+
+    <string name="In_Stats_2">State wise stats in India </string>
+
+    <string name="Contact_for_help">Contact for help </string>
+
+
+    <string name="Symptom">Symptom and precaution</string>
+
+    <string name="WHO">World health organisation</string>
+
+
+    <string name="NHP">national health protocol </string>
+
+    <string name="MOHNFW">ministry of health and\n family welfare</string>
+
+    <string name="GLOBAL">covid19 global tracker</string>
+
+    <string name="GOOGLE">google covid-19 map</string>
+
+    <string name="B_View_in_English">View in English</string>
+
+    <string name="GA">general awareness</string>
+
+    <string name="PP">prevention product</string>
+
+    <string name="Useful_links">useful links</string>
+
+    <string name="Donation_state">Donate</string>
+
+    <string name="Corona_Hospitals">testing and relief centres</string>
+
+    <!--***********************-->
+
+    <!--**************************FAQ************************************-->
+    <string name="FAQ_In_ENG">For more</string>
+
+    <string name="FAQ">FAQ</string>
+
+    <string name="FOR_MORE">For more</string>
+
+    <string name="FAQ_Q1">Q1-What is a coronavirus?</string>
+    <string name="FAQ_Q2">Q2-What is COVID-19?  </string>
+    <string name="FAQ_Q3">Q3-Who is at risk of developing severe illness?  </string>
+    <string name="FAQ_Q4">Q4-How does COVID-19 spread? </string>
+    <string name="FAQ_Q5">Q5-Can the virus that causes COVID-19 be transmitted through the air? </string>
+
+    <string name="FAQ_A1"> Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19. </string>
+    <string name="FAQ_A2"> COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019. </string>
+    <string name="FAQ_A3">  While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others.   </string>
+    <string name="FAQ_A4"> People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick. </string>
+    <string name="FAQ_A5"> Studies to date suggest that the virus that causes COVID-19 is mainly transmitted through contact with respiratory droplets rather than through the air.  See previous answer on “How does COVID-19 spread?” </string>
+
+
+    <!--*****************************************************************-->
+
+
+    <!--***************************Sources*********************************************-->
+    <string name="Video_1"><a href="https://www.youtube.com/watch?v=O9Zyrd_vLqo">https://www.youtube.com/watch?v=O9Zyrd_vLqo</a></string>
+    <string name="video_2"><a href="https://www.youtube.com/watch?v=mYCtbgH4SKQ">https://www.youtube.com/watch?v=mYCtbgH4SKQ </a>    </string>
+    <string name="video_3"><a href="https://www.youtube.com/watch?v=ICVYlNmb6NY">https://www.youtube.com/watch?v=ICVYlNmb6NY </a>    </string>
+    <string name="video_4"><a href="https://www.youtube.com/watch?v=Y9VgmhxtJFk">https://www.youtube.com/watch?v=Y9VgmhxtJFk </a>    </string>
+    <string name="video_5"><a href="https://www.youtube.com/watch?v=djivDj8mMuQ">https://www.youtube.com/watch?v=djivDj8mMuQ </a>    </string>
+    <string name="video_6"><a href="https://www.youtube.com/watch?v=eRTFbKdrWz8"> https://www.youtube.com/watch?v=eRTFbKdrWz8</a>    </string>
+    <string name="video_7"><a href="https://www.youtube.com/watch?v=UEfCxCLtOwk">https://www.youtube.com/watch?v=UEfCxCLtOwk </a>    </string>
+    <string name="video_8"><a href="https://www.youtube.com/watch?v=pxoIufVFjOk"> https://www.youtube.com/watch?v=pxoIufVFjOk</a>    </string>
+
+    <string name="Picture_1"> <a href="https://www.pngitem.com/middle/JJTmRm_transparent-cartoon-nose-png-runny-nose-clipart-png/">https://www.pngitem.com/middle/JJTmRm_transparent-cartoon-nose-png-runny-nose-clipart-png/ </a> </string>
+    <string name="Picture_2"> <a href="http://clipart-library.com/clip-art/headache-transparent-12.htm">http://clipart-library.com/clip-art/headache-transparent-12.htm </a>  </string>
+    <string name="Picture_3"> <a href="https://www.pngwing.com/en/search?q=cough"> https://www.pngwing.com/en/search?q=cough</a>  </string>
+    <string name="Picture_4"> <a href="https://dlpng.com/png/4045801"> https://dlpng.com/png/4045801</a>  </string>
+    <string name="Picture_5"> <a href="https://imgbin.com/png/ZwKWuz2i/fever-child-eye-png">https://imgbin.com/png/ZwKWuz2i/fever-child-eye-png </a>  </string>
+    <string name="Picture_6"> <a href="https://www.shutterstock.com/search/difficulty+breathing">https://www.shutterstock.com/search/difficulty+breathing </a>  </string>
+    <string name="Picture_7"> <a href="https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/what-you-can-do.html">https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/what-you-can-do.html </a>  </string>
+    <string name="Picture_8"> <a href="https://www.freepik.com/free-photos-vectors/clean">https://www.freepik.com/free-photos-vectors/clean </a>  </string>
+    <string name="Picture_9"> <a href="https://pngio.com/">https://pngio.com/ </a>  </string>
+
+
+    <!--***********************************************************-->
+    <!--********All text **************-->
+    <string name="World">World</string>
+
+    <string name="India">India</string>
+
+    <string name="positive_cases">Confirmed</string>
+
+    <string name="Deaths">Deaths</string>
+
+    <string name="Hospitalized">Active</string>
+
+    <string name="Recovered">Recovered</string>
+
+    <string name="SYMPTOMS">SYMPTOMS</string>
+
+    <string name="Runny_nose">Runny nose</string>
+
+    <string name="HEAd">Headache</string>
+
+    <string name="T_Cough">Cough</string>
+
+    <string name="Sore_Throat">Sore Throat</string>
+
+    <string name="T_FEVER">Fever</string>
+
+    <string name="T_Maintain_cleanliness">Maintain cleanliness</string>
+
+    <string name="T_Keep_your_mouth_covered">Keep your mouth covered</string>
+
+    <string name="T_Stay_in_home">Stay in home</string>
+
+    <string name="T_Avoid_sick_people">Avoid sick people</string>
+
+    <string name="T_PRECAUTIONS">PRECAUTIONS</string>
+
+    <string name="T_Difficulty_in_breathing">Difficulty in breathing</string>
+
+    <string name="T_Wash_hands_frequently">Wash hands frequently</string>
+
+    <string name="T_Do_not_touch_your_face">Do not touch your face</string>
+
+
+    <!--***********************-->
+
+
+    <style name="my_text_view_with_drawable">
+        <item name="android:drawableLeft">@drawable/splash_screen</item>
+    </style>
+
+
+    <!--***LINKS****-->
+    <string name="DonationLink">
+                   Help India to win this fight against COVID-19.\nDonate in
+            <a href="https://www.pmcares.gov.in/en/">PM CARES.</a>
+                </string>
+
+
+    <!--***For Symptoms****-->
+    <string name="RunnyNose">
+                            A runny nose is excess nasal drainage. It may be a thin clear fluid, thick mucus or something in between.
+            But runny nose is not the only/exactly a symptom of COVID-19
+                </string>
+    <string name="Headache">
+                        Headache is the symptom of pain in the face, head, or neck. It can occur as a migraine, tension-type headache, or cluster headache.
+                </string>
+    <string name="Cough">
+             A cough, also known as tussis, is a voluntary or involuntary act that clears the throat and breathing passage of foreign particles,microbes,fluids,and mucus; it is a rapid expulsion of air from the lungs. Coughing can be done deliberately or as part of a reflex.
+                </string>
+    <string name="SoreThroat">
+                    Pain or irritation in the throat that can occur with or without swallowing, often accompanies infections, such as a cold or flu.Examples include overuse of voice,very dry mouth or sleeping with the mouth open.
+                </string>
+    <string name="Fever">
+                    A fever is a body temperature that is higher than normal. A normal temperature is usually around 98.6 F.
+            if body temperature of any person is more then 100.4°F/38°C or higher then the person cough, or trouble breathing
+                </string>
+    <string name="DifficultyInBreathing">
+                    Breathing difficulty describes discomfort when breathing and feeling as if you can\'t draw a complete breath. This can develop gradually or come on suddenly.
+                </string>
+    <!--***************************-->
+
+    <!--***For Precaution****-->
+    <string name="washHands">
+                        Hand washing, also known as hand hygiene, is the act of cleaning one\'s hands for the purpose of removing soil, grease, microorganisms, or other unwanted substances.
+                </string>
+    <string name="DoNotTouchYourFace">
+                    Avoid touching the face again and again because it is one of the reason for fast trasmission of COVID-19 virus to trasmit into lungs.
+                </string>
+    <string name="AvoidSickPeople">
+                    in hospitals, doctors are avoiding shaking hands so that to stop the transmission of germs/viruses from sick people, so avoid shaking hands, hugs and talk making one meter distance to sick people.
+                </string>
+    <string name="StayInHome">
+                    Preparing for coronavirus (COVID-19) means having what you need to stay home. Officials are asking people to only go out when absolutely needed so they don\'t get sick. Keeping your household supplied will prevent you from running out of essentials.
+                </string>
+    <string name="KeepYourMouthCovered">
+                    The idea is to cover your mouth when you cough (or sneeze) so the germs in your body are not propelled into the air or across the room, which could make others sick.
+                </string>
+    <string name="MaintainCleanliness">
+                    With the help of cleanliness, we can keep our physical and mental health clean, which will make us feel good. Maintaining cleanliness is the essential part of healthy living because it is the cleanliness only which helps to improve our personality by keeping clean externally and internally.
+                </string>
+    <!--**********************-->
+
+
+    <!--**********Contacts us***************-->
+    <string name="instagram">
+                    <a href="https://instagram.com/hndindia?igshid=mddxtcbppnb4"> hndindia </a>
+
+                </string>
+    <string name="Tw">
+                    <a href="https://twitter.com/hndindia"> HNDINDIA </a>
+
+                </string>
+    <string name="Fb">
+                    <a href="https://www.facebook.com/HNDINDIA20/"> Fb/HNDINDIA20</a>
+
+                </string>
+    <string name="Email">
+                    <a href="">hndindia20@gmail.com</a>
+                </string>
+
+    <string name="Linkedin">
+                    <a href="https://www.linkedin.com/company/35882459/admin/">HNDINDIA</a>
+                </string>
+    <string name="suggestion">FOR SUGGESTIONS &amp; COMPLAINTS</string>
+
+    <string name="telegram"><a href="t.me/KnockCovidOut">KnockCovidOut</a>
+    </string>
+
+    <!--***************************-->
+
+    <!--********About************-->
+
+    <string name="User">By using Knock Covid Out you are automatically agreeing to our terms and conditions.</string>
+
+
+    <string name="Terms_Conditions">Terms and condition</string>
+    <string name="TermsAndCondition1">1.\tRetention of Rights of Ownership/Ban on Infringement</string>
+    <string name="TermsAndCondition2"> 2. Retention of the Right to Change the App at Any Times</string>
+    <string name="TermsAndCondition3"> 3. Restriction on App Abuses</string>
+    <string name="TermsAndCondition4">4. Disclaimer of Warranties and Liabilities</string>
+    <string name="TermsAndCondition5">5. Retention of Right to Terminate/Ban User</string>
+
+    <string name="Terms_uses">Terms of uses</string>
+    <string name="TermsOfUses1">1.Use HND app for information purpose only.</string>
+    <string name="TermsOfUses2">2.Content/data can be shared with anyone through any platform/channel.</string>
+    <string name="TermsOfUses3">3.Copying of data/stats of any information is limited, and to be shared for only educational/information purpose.</string>
+
+
+    <!--********************-->
+
+
+    <string name="lang">LANG</string>
+    <string name="share">Share</string>
+    <string name="languages">Languages</string>
+    <string name="faq">FAQ</string>
+    <string name="feed_back">Feed back</string>
+    <string name="about">About</string>
+    <string name="contact_us">Contact us</string>
+    <string name="sources">Sources</string>
+    <string name="version_1_0">version 1.0</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="terms_and_condition">Terms and condition</string>
+    <string name="hndindia_2020">HNDINDIA © 2020</string>
+    <string name="for_any_queries_contact_us_at">For any queries contact us at:</string>
+    <string name="submit">Submit</string>
+    <string name="name">NAME :</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="email_id">EMAIL ID:</string>
+    <string name="enter_feedback_here">Enter feedback here</string>
+    <string name="rate_us_appstore">Rate us -appstore</string>
+    <string name="covid_19_helpine2">COVID-19 Helpine2</string>
+
+
+    <!--***************************************-->
+
+
+    <!--*********Myth-busters***********-->
+
+    <string name="Myth_busters">Myth busters</string>
+    <string name="there_is_a_lot_of_false_information_around_these_are_the_facts">There is a lot of false information around. These are the facts.</string>
+    <string name="MB_1">People of all ages CAN be infected by the coronavirus. Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus. </string>
+
+    <string name="MB_2">Antibiotics DO NOT work against viruses, antibiotics only work against bacteria.</string>
+    <string name="MB_3">To date, there is NO specific medicine recommended to prevent or treat the coronavirus.</string>
+
+    <string name="MB_4">Garlic is healthy but there is NO evidence from the current outbreak that eating garlic has protected people from the coronavirus.</string>
+
+    <string name="MB_5">There is NO evidence that regularly rinsing the nose with saline has protected people from infection with the coronavirus. </string>
+
+    <string name="MB_6">Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenzae type b (Hib) vaccine, DO NOT provide protection against the coronavirus.</string>
+
+    <string name="MB_7">Spraying alcohol or chlorine all over your body WILL NOT kill viruses that have already entered your body
+</string>
+
+    <string name="MB_8">Thermal scanners CAN detect if people have a fever but CANNOT detect whether or not someone has the coronavirus</string>
+
+    <string name="MB_9">Taking a hot bath DOES NOT prevent the coronavirus
+</string>
+
+    <string name="MB_10">There is NO evidence that companion animals/pets such as dogs or cats can transmit the coronavirus.</string>
+
+    <string name="MB_11">The coronavirus CANNOT be transmitted through mosquito bites.</string>
+
+    <string name="MB_12">The coronavirus CAN be transmitted in areas with hot and humid climates
+</string>
+
+    <string name="MB_13">Cold weather and snow CANNOT kill the coronavirus.</string>
+    <!--************************-->
+    <string name="who_whatsaap_chat_bot">WHO whatsapp chat bot</string>
+
+
+    <string name="YT_Sources">YouTube source</string>
+    <string name="PIC_Sources">Pictures source</string>
+
+    <string name="MB_LINK">For more information visit\n
+        <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters">WHO-Myth buster</a>
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="OrphanageCheckBox">I hereby,confirm that to the best of my knowledge all information given by me is true.</string>
+    <!--=====================Module========================================================= -->
+    <string name="module_ncs">For more information please visit \n <a href="https://www.ncs.gov.in/">National career service</a></string>
+
+    <string name="ans1_helthEpass">
+        The applicant will have go to Odisha government\'s webiste - <a href="https://covid19.odisha.gov.in/">covid19.odisha.gov.in</a> - for applying e-passes. On the portal, applicant needs to provide details of travel itinerary, passenger and driver information.
+
+After the submission of details, the application will be reviewed by the district authorities. On approval, ePass can be viewed, downloaded and printed from the website. Also, applicant receives ePass number with vehicle and passenger details through SMS and email.
+    </string>
+
+
+    <string name="ans2_heathEpass">
+
+        &#8226;Visit the website of the respective state/union territory.\n\n
+
+         &#8226;Select the \'apply e-pass\' tab and fill the e-pass form with details asked for. You will be required to provide details on: Name, Mobile Number, Government ID, Vehicle registration number (RC book), District and town name\n\n
+
+         &#8226;Upload the supporting documents, if any, and submit your application.\n\n
+
+         &#8226;On approval, you will receive the message from the authority.\n\n
+
+         &#8226;You could take a print-out of the e-pass or show the e-copy to the police and other authorities enquiring about your movement.n\\n
+
+    </string>
+
+    <string name="healthEpass_for_everyone">
+        For Covid-19 ePasses in Odisha log on to <a href="http://covid19.odisha.gov.in">https://covid19.odisha.gov.in/</a>
+
+    </string>
+
+    <string name="healthEpass_for_migrants">
+        For Covid-19 ePasses for migrant workers \n<a gref="https://covid19regd.odisha.gov.in/migrant-registration.aspx">https://covid19regd.odisha.gov.in/migrant-registration.aspx</a>
+    </string>
+
+
+    <!--====================================================================================-->
+    <!--=========Our Sources============================================================-->
+
+    <string name="sources_line_1">1. PNG item - <a href="https://www.pngitem.com/">https://www.pngitem.com/</a> </string>
+
+    <string name="sources_line_2">2. Clipart library - <a href="http://clipart-library.com/">http://clipart-library.com/</a> </string>
+
+    <string name="sources_line_3">3. PNGWing - <a href="https://www.pngwing.com/">https://www.pngwing.com/</a> </string>
+
+    <string name="sources_line_4">4. Dl png - <a href="https://dlpng.com/">https://dlpng.com/</a> </string>
+
+    <string name="sources_line_5">5. IMG Bin - <a href="https://imgbin.com/">https://imgbin.com/</a></string>
+
+    <string name="sources_line_6">6. Shutterstock - <a href="https://www.shutterstock.com/">https://www.shutterstock.com/</a></string>
+
+    <string name="sources_line_7">7. Freepik - <a href="https://www.freepik.com/">https://www.freepik.com/</a></string>
+
+    <string name="sources_line_8">8. Pngio - <a href="https://pngio.com/">https://pngio.com/</a></string>
+
+    <string name="sources_line_9">9. Flaticon - <a href="https://www.flaticon.com/authors/eucalyp">https://www.flaticon.com/authors/eucalyp</a></string>
+
+
+    <!--================================================================================-->
+
+    <!--============================Travel E-pass=======================================-->
+
+    <string name="mizoram_link1">1. Mpass registration -\n
+       \n <a href="https://mcovid19.mizoram.gov.in/pages/mpass/registration">https://mcovid19.mizoram.gov.in/pages/mpass/registration</a>
+    </string>
+
+    <string name="mizoram_link2">2. Inter District - \n
+        \n <a href="https://mcovid19.mizoram.gov.in/pages/mpass/inter-district">https://mcovid19.mizoram.gov.in/pages/mpass/inter-district</a>
+    </string>
+
+    <string name="mizoram_link3">3. Mpass Flight -\n
+        \n <a href="https://mcovid19.mizoram.gov.in/pages/mpass/flight">https://mcovid19.mizoram.gov.in/pages/mpass/flight</a>
+    </string>
+
+    <string name="mizoram_link4">4. Mpass Traffic -\n
+        \n <a href="https://mcovid19.mizoram.gov.in/pages/mpass/traffic">https://mcovid19.mizoram.gov.in/pages/mpass/traffic</a>
+    </string>
+
+
+    <!--================================================================================-->
+
+    <string name="care_center_cg">Here is the list of
+        <a href ="http://cghealth.nic.in/cghealth17/Information/content/CORONA/CovidCareCentre.pdf">CG Care Centre</a>,
+        <a href="http://cghealth.nic.in/cghealth17/Information/content/CORONA/DedicatedCOVIDHospitals.pdf">CG Dedicated COVID Hospitals</a> and
+        <a href="https://www.icmr.gov.in/pdf/covid/labs/COVID_Testing_Labs_13072020.pdf">COVID Testing Labs In India</a>
+    </string>
+
+</resources>

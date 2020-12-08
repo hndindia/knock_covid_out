@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SourceMainActivity"
+    android:background="@drawable/background"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Sources"
+            android:textColor="@color/Texts_color"
+            android:textStyle="bold"
+            android:fontFamily="@font/actor"
+            android:textSize="25sp"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:id="@+id/sources_link_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_1"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+         <TextView
+            android:id="@+id/sources_link_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_2"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+        <TextView
+            android:id="@+id/sources_link_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_3"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+        <TextView
+            android:id="@+id/sources_link_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_4"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+        <TextView
+            android:id="@+id/sources_link_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_5"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+
+        <TextView
+            android:id="@+id/sources_link_6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_6"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+        <TextView
+            android:id="@+id/sources_link_7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_7"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+
+        <TextView
+            android:id="@+id/sources_link_8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_8"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+
+        <TextView
+            android:id="@+id/sources_link_9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="@string/sources_line_9"
+            android:textAlignment="textStart"
+            android:textColor="@color/Texts_color"
+            android:textSize="20sp"
+            android:textColorLink="@color/Hospital"
+            />
+
+    </LinearLayout>
+</ScrollView>

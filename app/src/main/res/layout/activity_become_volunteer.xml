@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Module.BecomeVolunteer"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="70dp"
+        >
+
+
+        <EditText
+            android:id="@+id/FullName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:hint="Full name*"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/news_quotes_background"
+            />
+
+        <TextView
+            android:id="@+id/DOB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="date"
+            android:hint="Date of birth(yy-mm-dd)*"
+            android:layout_gravity="center"
+            android:textSize="18sp"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            android:onClick="DOB"
+            />
+
+        <EditText
+            android:id="@+id/PhoneNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="number"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            android:maxLength="10"
+            android:hint="Contact number*"
+            />
+
+        <EditText
+            android:id="@+id/Email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="textEmailAddress"
+            android:hint="E-mail"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            />
+
+        <EditText
+            android:id="@+id/FieldOfWork"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:hint="Field of work*"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+
+            />
+        <EditText
+            android:id="@+id/occupation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="textPersonName"
+            android:hint="Occupation*"
+            android:layout_gravity="center"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            >
+            <TextView
+                android:id="@+id/StartDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Start date*"
+                android:ems="7"
+                android:background="@drawable/news_quotes_background"
+                android:onClick="startDate"
+                />
+
+            <TextView
+                android:id="@+id/EndDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="End date*"
+                android:layout_marginStart="19dp"
+                android:onClick="endDate"
+                android:background="@drawable/news_quotes_background"
+                android:ems="7"
+                />
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/PermanentAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="12"
+            android:inputType="textMultiLine"
+            android:hint="Permanent address*"
+            android:layout_gravity="center"
+            android:scrollbars="vertical"
+            android:background="@drawable/news_quotes_background"
+            android:layout_marginTop="25dp"
+            />
+
+
+
+        <Button
+            android:id="@+id/submitForm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:ems="12"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="20dp"
+            />
+
+    </LinearLayout>
+
+</ScrollView>
