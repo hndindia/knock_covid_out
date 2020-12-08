@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="Nexus 6" />
+        <device id="Nexus 5X" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="state" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f32c5aae-8e2e-4e41-bccc-12e44862a1eb" name="Default Changelist" comment="">
+      <change afterPath="E:/For android/Android Studio Tutorial How to Fix Error Unfortunately App has Stopped _ Logcat .mp4" afterDir="false" />
+      <change afterPath="E:/For android/Android Studio Tutorial How to Generate Signed APK in Android Studio 3.2.1.mp4" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/alison" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/amity.jpg" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/coursera.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/eskill_india.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/iibm_india" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/internshal.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/learnvern.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/linkedin.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/nptel.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/preb_bytes.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/start_up_india" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/tcssss.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/Courses/udemy.PNG" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_0.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_1.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_10.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_11.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_12.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_13.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_14.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_15.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_16.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_17.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_18.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_19.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_2.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_20.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_21.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_22.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_23.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_24.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_25.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_26.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_27.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_28.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_29.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_3.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_30.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_31.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_32.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_33.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_34.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_35.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_36.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_37.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_4.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_5.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_6.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_7.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_8.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA MAP/ss_state_9.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_10.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_11.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_12.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_13.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_14.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_15.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_16.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_17.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_18.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_19.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_2.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_20.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_21.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_22.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_23.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_24.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_25.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_26.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_27.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_28.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_29.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_3.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_30.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_31.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_32.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_33.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_34.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_35.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_36.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_37.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_38.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_4.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_5.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_6.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_7.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_8.webp" afterDir="false" />
+      <change afterPath="E:/HnD/INDIA STATE MAP/state_9.webp" afterDir="false" />
+      <change afterPath="E:/HnD/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_2_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_common_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_fragment_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_runtime_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_navigation_navigation_ui_2_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_volley_volley_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_eightbitlab_blurview_1_6_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_YarikSOffice_lingver_1_2_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_barteksc_android_pdf_viewer_2_8_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_barteksc_pdfium_android_1_7_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_17_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_17_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_17_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_17_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_17_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_17_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_17_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_19_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_19_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_19_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_components_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_20_1_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_16_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_pierfrancescosoffritti_androidyoutubeplayer_core_10_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/pickle/important" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/pickle/pickle_dump.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/pickle/pickle_load.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/python_copy/python_copy_required.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/python_copy/python_deep_copy.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/python_copy/python_shallow_copy.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/queue_module/lifo_queue_example.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/queue_module/priority_queue_example.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/queue_module/priority_queue_heapq.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/queue_module/queue_example.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/queue_module/queue_full_empty.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/random_module/random_seed.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/signal_processing/python_signal.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/signal_processing/signal_alarm.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/socket_examples/socket_client.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/socket_examples/socket_server.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/subprocess/subprocess_popen.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/system_command/os_system_example.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/theano/theano_training.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/threading_examples/daemon_thread.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/unittest_examples/Person.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/unittest_examples/PersonTest.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/unittest_examples/__init__.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/urllib/urllib_example.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Python-3/urllib_example.py" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Rest-Assured-Tutorial/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Rest-Assured-Tutorial/src/test/java/com/journaldev/restassured/RESTAssuredJSONTests.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Rest-Assured-Tutorial/src/test/java/com/journaldev/restassured/RESTAssuredXMLTests.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Rest-Assured-Tutorial/src/test/resources/db.json" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Rest-Assured-Tutorial/src/test/resources/routes.json" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Selenium-Tutorials/README.md" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Selenium-Tutorials/geckodriver" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Selenium-Tutorials/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Selenium-Tutorials/src/main/java/com/journaldev/selenium/firefox/GeckoDriverExample.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/WebContent/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/src/com/journaldev/servlet/LongRunningServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/src/com/journaldev/servlet/Test.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/src/com/journaldev/servlet/async/AppAsyncListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/src/com/journaldev/servlet/async/AppContextListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/src/com/journaldev/servlet/async/AsyncLongRunningServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletExample/src/com/journaldev/servlet/async/AsyncRequestProcessor.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletTest/src/com/journaldev/servlet/async/ReadURLThread.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletTest/src/com/journaldev/servlet/async/TestAsyncServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/AsyncServletTest/src/com/journaldev/servlet/async/TestNormalServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstJSP/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstJSP/WebContent/WEB-INF/test.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstJSP/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstJSP/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstJSP/WebContent/jsps/temp.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServlet/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServlet/WebContent/jsps/hello.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServlet/src/com/journaldev/first/FirstServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServletProject/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServletProject/WebContent/WEB-INF/lib/jsp-api.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServletProject/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServletProject/WebContent/jsps/hello.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/FirstServletProject/src/com/journaldev/first/FirstServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/Google-Recaptcha-Java-Example/WebContent/LoginSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/Google-Recaptcha-Java-Example/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/Google-Recaptcha-Java-Example/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/Google-Recaptcha-Java-Example/WebContent/login.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/Google-Recaptcha-Java-Example/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/Google-Recaptcha-Java-Example/src/com/journaldev/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/Google-Recaptcha-Java-Example/src/com/journaldev/utils/VerifyRecaptcha.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JDBCDataSourceTomcat/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JDBCDataSourceTomcat/WebContent/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JDBCDataSourceTomcat/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JDBCDataSourceTomcat/src/main/java/com/journaldev/jdbc/datasource/JDBCDataSourceExample.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JDBCDataSourceTomcat/tomcat-config.txt" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPActions/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPCustomTags/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPCustomTags/WebContent/WEB-INF/numberformatter.tld" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPCustomTags/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPCustomTags/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPCustomTags/src/com/journaldev/jsp/customtags/NumberFormatterTag.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/WebContent/home_action.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/src/com/journaldev/model/Address.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/src/com/journaldev/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/src/com/journaldev/model/Person.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPELExample/src/com/journaldev/servlet/HomeServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPExceptionHandling/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPExceptionHandling/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPExceptionHandling/WebContent/error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPExceptionHandling/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPExceptionHandling/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPImplicitObjects/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPImplicitObjects/WebContent/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPImplicitObjects/WebContent/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPImplicitObjects/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPImplicitObjects/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSPImplicitObjects/WebContent/test.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSTLExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSTLExample/WebContent/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSTLExample/WebContent/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSTLExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSTLExample/src/com/journaldev/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/JSTLExample/src/com/journaldev/servlet/HomeServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/LoginExample/WebContent/LoginSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/LoginExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/LoginExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/LoginExample/WebContent/login.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/LoginExample/src/com/journaldev/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookie/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookie/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookie/src/com/journaldev/servlet/cookie/GetCookie.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookie/src/com/journaldev/servlet/cookie/SetCookie.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookieExample/WebContent/LoginSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookieExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookieExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookieExample/WebContent/login.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookieExample/src/com/journaldev/servlet/session/LoginServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletCookieExample/src/com/journaldev/servlet/session/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/WEB-INF/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/login.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/WebContent/register.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/servlet/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/servlet/RegisterServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/servlet/errorhandler/AppErrorHandler.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/servlet/filters/AuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/servlet/listeners/AppContextListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/util/DBConnectionManager.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletDBLog4jExample/src/com/journaldev/util/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletExceptionHandling/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletExceptionHandling/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletExceptionHandling/WebContent/index.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletExceptionHandling/src/com/journaldev/servlet/exception/AppExceptionHandler.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletExceptionHandling/src/com/journaldev/servlet/exception/MyExceptionServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadDownloadExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadDownloadExample/WebContent/WEB-INF/lib/commons-fileupload-1.3.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadDownloadExample/WebContent/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadDownloadExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadDownloadExample/WebContent/index.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadDownloadExample/src/com/journaldev/servlet/FileLocationContextListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadDownloadExample/src/com/journaldev/servlet/UploadDownloadFileServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadExample/WebContent/index.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadExample/WebContent/response.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFileUploadExample/src/com/journaldev/servlet/FileUploadServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/WebContent/CheckoutPage.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/WebContent/LoginSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/WebContent/login.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/src/com/journaldev/servlet/filters/AuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/src/com/journaldev/servlet/filters/RequestLoggingFilter.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/src/com/journaldev/servlet/session/LoginServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletFilterExample/src/com/journaldev/servlet/session/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletHttpSessionExample/WebContent/CheckoutPage.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletHttpSessionExample/WebContent/LoginSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletHttpSessionExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletHttpSessionExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletHttpSessionExample/WebContent/login.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletHttpSessionExample/src/com/journaldev/servlet/session/LoginServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletHttpSessionExample/src/com/journaldev/servlet/session/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/src/com/journaldev/db/DBConnectionManager.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/src/com/journaldev/listener/AppContextAttributeListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/src/com/journaldev/listener/AppContextListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/src/com/journaldev/listener/MyServletRequestListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/src/com/journaldev/listener/MySessionListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletListenerExample/src/com/journaldev/servlet/MyServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletSessionURLRewriting/WebContent/CheckoutPage.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletSessionURLRewriting/WebContent/LoginSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletSessionURLRewriting/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletSessionURLRewriting/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletSessionURLRewriting/WebContent/login.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletSessionURLRewriting/src/com/journaldev/servlet/session/LoginServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/ServletSessionURLRewriting/src/com/journaldev/servlet/session/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/lib/jsch-0.1.50.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/src/META-INF/web-fragment.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/src/com/journaldev/enums/MyThread.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/src/com/journaldev/enums/SSHCommandExecutor.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/src/com/journaldev/enums/Test.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/src/com/journaldev/enums/ThreadStatesEnum.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/TestWebFragment/src/com/journaldev/enums/ThreadTest.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQuery-AJAX-Web-Application/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQuery-AJAX-Web-Application/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQuery-AJAX-Web-Application/WebContent/js/app-ajax.js" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQuery-AJAX-Web-Application/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQuery-AJAX-Web-Application/src/main/java/com/journaldev/servlets/GetUserServlet.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/css/style.css" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/index-vertical.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/js/jquery-1.11.1.js" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/success.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/src/com/journaldev/servlet/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/src/com/journaldev/servlet/controller/RegistrationController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/src/com/journaldev/servlet/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/src/com/journaldev/servlet/dao/UserDAOImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/src/com/journaldev/servlet/jdbc/JDBCUtil.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/src/com/journaldev/servlet/model/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/ServletJSP/jQueryUITabsLoginExample/users.sql" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring-5/Spring-Webflux/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring-5/Spring-Webflux/src/main/java/com/journaldev/spring/Application.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring-5/Spring-Webflux/src/main/java/com/journaldev/spring/client/HelloWorldWebClient.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring-5/Spring-Webflux/src/main/java/com/journaldev/spring/component/HelloWorldHandler.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring-5/Spring-Webflux/src/main/java/com/journaldev/spring/component/HelloWorldRouter.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring-5/Spring-Webflux/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring-5/Spring-Webflux/src/test/java/com/journaldev/spring/SpringWebFluxTest.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Actuator-Example/mvnw" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Actuator-Example/mvnw.cmd" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Actuator-Example/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Actuator-Example/src/main/java/com/journaldev/spring/MyCustomEndpoints.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Actuator-Example/src/main/java/com/journaldev/spring/SpringActuatorExampleApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Actuator-Example/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Actuator-Example/src/test/java/com/journaldev/spring/SpringActuatorExampleApplicationTests.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Bean-Annotation/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Bean-Annotation/src/main/java/com/journaldev/spring/MyAppConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Bean-Annotation/src/main/java/com/journaldev/spring/MyDAOBean.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Bean-Annotation/src/main/java/com/journaldev/spring/MyFileSystemBean.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Bean-Annotation/src/main/java/com/journaldev/spring/SpringMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/mvnw" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/mvnw.cmd" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/main/java/com/journaldev/spring/Customer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/main/java/com/journaldev/spring/DataRequestScope.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/main/java/com/journaldev/spring/DataSessionScope.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/main/java/com/journaldev/spring/HelloData.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/main/java/com/journaldev/spring/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/main/java/com/journaldev/spring/SpringBootMvcApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Beans-Scope-Spring-Boot/src/test/java/com/journaldev/spring/SpringBootMvcApplicationTests.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/mvnw" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/mvnw.cmd" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/src/main/java/com/journaldev/spring/Person.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/src/main/java/com/journaldev/spring/PersonController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/src/main/java/com/journaldev/spring/SpringBootRestApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-REST/src/test/java/com/journaldev/spring/SpringBootRestApplicationTests.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-RestController/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-RestController/src/main/java/com/journaldev/spring/controller/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-RestController/src/main/java/com/journaldev/spring/main/SpringBootRestApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-RestController/src/main/java/com/journaldev/spring/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-RestController/src/main/java/com/journaldev/spring/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Boot-RestController/src/main/java/com/journaldev/spring/repository/ObjectRepository.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Component/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Component/src/main/java/com/journaldev/spring/MathComponent.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Component/src/main/java/com/journaldev/spring/SpringMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/mvnw" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/mvnw.cmd" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/src/main/java/com/journaldev/spring/MyBean.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/src/main/java/com/journaldev/spring/MyBeanConsumer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/src/main/java/com/journaldev/spring/MyConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/src/main/java/com/journaldev/spring/MySpringApp.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Configuration-Annotation/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/WebContent/WEB-INF/spring-servlet.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/WebContent/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/src/main/java/com/journaldev/spring/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/src/main/java/com/journaldev/spring/controller/PersonRESTController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Controller/src/main/java/com/journaldev/spring/model/Person.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PostConstruct-PreDestroy-Example/mvnw" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PostConstruct-PreDestroy-Example/mvnw.cmd" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PostConstruct-PreDestroy-Example/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PostConstruct-PreDestroy-Example/src/main/java/com/journaldev/spring/MyBean.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PostConstruct-PreDestroy-Example/src/main/java/com/journaldev/spring/MyConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PostConstruct-PreDestroy-Example/src/main/java/com/journaldev/spring/MySpringApp.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PostConstruct-PreDestroy-Example/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PropertySource-Annotation/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PropertySource-Annotation/src/main/java/com/journaldev/spring/DBConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PropertySource-Annotation/src/main/java/com/journaldev/spring/DBConnection.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PropertySource-Annotation/src/main/java/com/journaldev/spring/SpringMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PropertySource-Annotation/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-PropertySource-Annotation/src/main/resources/root.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Repository/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Repository/src/main/java/com/journaldev/spring/SpringMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Repository/src/main/java/com/journaldev/spring/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Repository/src/main/java/com/journaldev/spring/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Repository/src/main/java/com/journaldev/spring/repository/ObjectRepository.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/WebContent/WEB-INF/spring-servlet.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/src/main/java/com/journaldev/spring/controller/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/src/main/java/com/journaldev/spring/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/src/main/java/com/journaldev/spring/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-RestController/src/main/java/com/journaldev/spring/repository/ObjectRepository.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Service/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Service/src/main/java/com/journaldev/spring/MathService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Service/src/main/java/com/journaldev/spring/SpringMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/mvnw" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/mvnw.cmd" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/src/main/java/com/journaldev/spring/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/src/main/java/com/journaldev/spring/SpringSessionExampleApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Session-Example/src/test/java/com/journaldev/spring/SpringSessionExampleApplicationTests.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Value-Annotation/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Value-Annotation/src/main/java/com/journaldev/spring/DBConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Value-Annotation/src/main/java/com/journaldev/spring/DBConnection.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Value-Annotation/src/main/java/com/journaldev/spring/SpringMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Value-Annotation/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Spring-Value-Annotation/src/main/resources/root.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/EmployeeAfterAspect.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/EmployeeAnnotationAspect.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/EmployeeAroundAspect.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/EmployeeAspect.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/EmployeeAspectJoinPoint.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/EmployeeAspectPointcut.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/EmployeeXMLConfigAspect.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/aspect/Loggable.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/main/SpringMain.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/java/com/journaldev/spring/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringAOPExample/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBatchExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBatchExample/src/main/java/com/journaldev/spring/batch/config/BatchConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBatchExample/src/main/java/com/journaldev/spring/batch/config/Main.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/src/main/java/com/journaldev/spring/autowiring/main/SpringMain.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/src/main/java/com/journaldev/spring/autowiring/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/src/main/java/com/journaldev/spring/autowiring/service/EmployeeAutowiredByConstructorService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/src/main/java/com/journaldev/spring/autowiring/service/EmployeeAutowiredByTypeService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/src/main/java/com/journaldev/spring/autowiring/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanAutowiring/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/java/com/journaldev/spring/bean/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/java/com/journaldev/spring/main/SpringAwareMain.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/java/com/journaldev/spring/main/SpringMain.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/java/com/journaldev/spring/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/java/com/journaldev/spring/service/MyAwareService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/java/com/journaldev/spring/service/MyEmployeeService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/java/com/journaldev/spring/service/MyService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/resources/spring-aware.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeanLifeCycle/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/java/com/journaldev/spring/beans/MyAnnotatedBean.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/java/com/journaldev/spring/beans/MyBean.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/java/com/journaldev/spring/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/java/com/journaldev/spring/main/MyConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/java/com/journaldev/spring/main/MyMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/java/com/journaldev/spring/main/MyService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringBeans/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/src/main/java/com/journaldev/spring/jdbc/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/src/main/java/com/journaldev/spring/jdbc/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringDataSource/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/java/com/journaldev/spring/controllers/EmployeeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/java/com/journaldev/spring/controllers/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/java/com/journaldev/spring/exceptions/EmployeeNotFoundException.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/java/com/journaldev/spring/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/java/com/journaldev/spring/model/ExceptionJSONInfo.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/java/com/journaldev/spring/resolver/MySimpleMappingExceptionResolver.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/WEB-INF/spring/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/WEB-INF/views/database_error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/WEB-INF/views/error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/WEB-INF/views/generic_error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringExceptionHandling/src/main/webapp/resources/404.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/src/main/java/com/journaldev/spring/controller/FileUploadController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/src/main/webapp/upload.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFileUpload/src/main/webapp/uploadMultiple.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/java/com/journaldev/spring/form/controllers/CustomerController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/java/com/journaldev/spring/form/controllers/EmployeeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/java/com/journaldev/spring/form/model/Customer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/java/com/journaldev/spring/form/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/java/com/journaldev/spring/form/validator/EmployeeFormValidator.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/java/com/journaldev/spring/form/validator/Phone.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/java/com/journaldev/spring/form/validator/PhoneValidator.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/resources/message_en.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/webapp/WEB-INF/spring/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/webapp/WEB-INF/views/custSave.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/webapp/WEB-INF/views/custSaveSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/webapp/WEB-INF/views/empSave.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/webapp/WEB-INF/views/empSaveSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringFormValidation/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/setup.sql" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/src/main/java/com/journaldev/dao/PersonDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/src/main/java/com/journaldev/dao/PersonDAOImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/src/main/java/com/journaldev/main/SpringHibernateMain.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/src/main/java/com/journaldev/model/Person.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringHibernateExample/src/main/resources/spring4.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/src/main/java/com/journaldev/spring/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/src/main/java/com/journaldev/spring/RequestProcessingTimeInterceptor.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/src/main/webapp/WEB-INF/spring/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringInterceptors/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/src/main/java/com/journaldev/spring/jdbc/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/src/main/java/com/journaldev/spring/jdbc/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/src/main/java/com/journaldev/spring/jdbc/dao/EmployeeDAOJDBCTemplateImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/src/main/java/com/journaldev/spring/jdbc/main/SpringMain.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/src/main/java/com/journaldev/spring/jdbc/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCExample/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/java/com/journaldev/spring/jdbc/dao/CustomerDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/java/com/journaldev/spring/jdbc/dao/CustomerDAOImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/java/com/journaldev/spring/jdbc/main/TransactionManagerMain.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/java/com/journaldev/spring/jdbc/model/Address.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/java/com/journaldev/spring/jdbc/model/Customer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/java/com/journaldev/spring/jdbc/service/CustomerManager.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/java/com/journaldev/spring/jdbc/service/CustomerManagerImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringJDBCTransactionManagement/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/java/com/journaldev/spring/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/java/com/journaldev/spring/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/webapp/WEB-INF/views/user.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCExample/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/java/com/journaldev/spring/PersonController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/java/com/journaldev/spring/dao/PersonDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/java/com/journaldev/spring/dao/PersonDAOImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/java/com/journaldev/spring/model/Person.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/java/com/journaldev/spring/service/PersonService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/java/com/journaldev/spring/service/PersonServiceImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/webapp/WEB-INF/views/person.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCHibernate/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/java/com/journaldev/spring/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/java/com/journaldev/spring/security/dao/AppUserDetailsServiceDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/spring/appServlet/spring-security.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/views/denied.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/views/employee.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/views/logout.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringMVCSecurity/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/springTest.sh" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/src/main/java/com/journaldev/spring/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRequestMappingExample/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/java/com/journaldev/spring/controller/EmpRestURIConstants.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/java/com/journaldev/spring/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/java/com/journaldev/spring/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/test/java/com/journaldev/spring/TestSpringRestExample.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/SpringRestExample/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/.springBeans" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/java/com/journaldev/spring/HomeController.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/resources/messages_en.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/resources/messages_fr.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/Springi18nExample/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/WebContent/health.html" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/src/main/java/com/journaldev/webapp/spring/dao/AppUserDetailsServiceDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/src/main/java/com/journaldev/webapp/spring/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/WebappSpringSecurity/src/main/java/com/journaldev/webapp/spring/security/SecurityWebApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/configuration/DIConfiguration.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/consumer/MyApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/consumer/MyXMLApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/services/EmailService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/services/MessageService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/services/TwitterService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/test/ClientApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/java/com/journaldev/spring/di/test/ClientXMLApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Spring/spring-dependency-injection/src/test/java/com/journaldev/spring/di/test/MyApplicationTest.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/src/main/java/com/journaldev/struts2/actions/WelcomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/src/main/resources/global.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionErrorMessages/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/src/main/java/com/journaldev/struts2/action/HomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/src/main/java/com/journaldev/struts2/action/LoginAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ActionExample/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/WebContent/error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/WebContent/jsps/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/src/main/java/com/journaldev/struts2/actions/HomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/src/main/java/com/journaldev/struts2/actions/LoginAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2AnnotationHelloWorld/src/main/java/com/journaldev/struts2/actions/TestAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/src/main/java/com/journaldev/struts2/actions/HomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/src/main/java/com/journaldev/struts2/model/Employee.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/src/main/java/com/journaldev/struts2/util/StringComparator.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ControlTagsExample/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/WebContent/footer.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/src/main/java/com/journaldev/struts2/actions/FooterAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/src/main/java/com/journaldev/struts2/actions/HomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/src/main/java/com/journaldev/struts2/model/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/src/main/resources/global.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2DataTagsExample/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Example/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Example/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Example/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Example/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Example/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Example/src/main/java/com/journaldev/struts2/actions/HomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Example/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/WebContent/error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/WebContent/exception.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/WebContent/runtime_exception.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/src/main/java/com/journaldev/struts2/exception/MyAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/src/main/java/com/journaldev/struts2/exception/MySpecialAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExceptionHandling/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/WebContent/images/processing.gif" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/WebContent/run.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/WebContent/running.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/WebContent/success.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/src/main/java/com/journaldev/struts2/actions/ExecuteTaskAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2ExecAndWait/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/WebContent/UploadFile.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/WebContent/UploadFileSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/WebContent/UploadMultipleFile.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/WebContent/UploadMultipleFileSuccess.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/src/main/java/com/journaldev/struts2/actions/UploadFileAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/src/main/java/com/journaldev/struts2/actions/UploadMultipleFileAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/src/main/java/com/journaldev/struts2/util/FilesUtil.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FileUploadExample/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/WebContent/homeModelDriven.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/WebContent/homeObject.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/WebContent/loginModelDriven.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/WebContent/loginObject.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/src/main/java/com/journaldev/struts2/actions/LoginModelDrivenAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/src/main/java/com/journaldev/struts2/actions/LoginObjectBackedAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2FormDataExample/src/main/java/com/journaldev/struts2/beans/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/WebContent/error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/setup.sql" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/java/com/journaldev/struts2hibernate/action/LoginAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/java/com/journaldev/struts2hibernate/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/java/com/journaldev/struts2hibernate/dao/UserDAOImpl.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/java/com/journaldev/struts2hibernate/listener/HibernateServletContextListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/java/com/journaldev/struts2hibernate/model/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/resources/User.hbm.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Hibernate/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/src/main/java/com/journaldev/struts2/actions/LoginAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/src/main/java/com/journaldev/struts2/actions/WelcomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/src/main/java/com/journaldev/struts2/interceptors/AuthenticationInterceptor.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/src/main/java/com/journaldev/struts2/interceptors/UserAware.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/src/main/java/com/journaldev/struts2/models/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2InterceptorExample/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/java/com/journaldev/struts2/actions/WelcomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/com/journaldev/struts2/actions/WelcomeAction.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/com/journaldev/struts2/actions/WelcomeAction_de_DE.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/com/journaldev/struts2/actions/WelcomeAction_fr_FR.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/com/journaldev/struts2/package.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/com/journaldev/struts2/package_de_DE.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/com/journaldev/struts2/package_fr_FR.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/global.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/global_de_DE.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/global_fr_FR.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Localization/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Log4jExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Log4jExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Log4jExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Log4jExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Log4jExample/src/main/java/com/journaldev/struts2/actions/HomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Log4jExample/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2Log4jExample/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/java/com/journaldev/struts2/actions/WelcomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/java/com/journaldev/struts2/model/Data.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/java/com/journaldev/struts2/model/MyJavaBean.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/java/com/journaldev/struts2/model/Rectangle.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/java/com/journaldev/struts2/typeconverters/RectangleTypeConverter.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/resources/com/journaldev/struts2/model/MyJavaBean-conversion.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2OGNLExample/src/main/resources/xwork-conversion.properties" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/WebContent/invalid_token.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/WebContent/update.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/WebContent/update_success.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/src/main/java/com/journaldev/struts2/actions/UpdateUserAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2TokenInterceptor/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/WebContent/home.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/src/main/java/com/journaldev/struts2/actions/User.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/src/main/java/com/journaldev/struts2/actions/WelcomeAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2UITags/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/WebContent/User/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/WebContent/error.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/WebContent/welcome.jsp" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/src/main/java/com/journaldev/struts2/action/LoginAction.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/Struts2/Struts2XMLHelloWorld/src/main/resources/struts.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/README.md" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/lib/bsh-2.0b6.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/lib/jcommander-1.72.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/lib/testng-6.14.3.jar" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/run_parameters_test.sh" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/main/java/com/journaldev/utils/Utils.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/dataprovider/Test4.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/dataprovider/Test4DataProvider.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/dependency/TestNGDependencyExample.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/dependency/TestNGDependencyXMLExample.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/dependency/testng.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/exceptions/MathUtils.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/exceptions/MathUtilsTest.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/factory/Test1.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/factory/Test2.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/factory/TestNGFactory.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/groups/TestNGGroupsExample.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/groups/testng.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/listeners/Test3.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/listeners/Test3SuiteListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/listeners/Test3TestListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/main/Test5.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/main/Test5SuiteListener.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/main/TestNGMainClass.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/parallel/NewTest.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/parallel/testng.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/parameters/TestParameters.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/timeout/TimeoutExample.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/timeout/testng.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/utils/TestUtils.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/xml/TestNGXMLTest.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/java/com/journaldev/xml/Utils.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/resources/test_parameters.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/resources/testng-exclude.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/resources/testng-groups.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/resources/testng.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/resources/testng_listeners.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/resources/testng_package.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/TestNG-Examples/src/test/resources/testng_parameters.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/consumer/MyApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/injector/AppInjector.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/services/EmailService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/services/FacebookService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/services/MessageService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/services/MockMessageService.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/test/ClientApplication.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/di-google-guice/src/main/java/com/journaldev/di/test/MyApplicationTest.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/abstract-factory-pattern-class-diagram.ucls" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/abstractfactory/ComputerAbstractFactory.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/abstractfactory/ComputerFactory.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/abstractfactory/LaptopFactory.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/abstractfactory/PCFactory.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/abstractfactory/ServerFactory.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/beans/Computer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/beans/Laptop.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/beans/PC.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/beans/Server.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Abstract-Factory-Design-Pattern/src/com/journaldev/test/ComputerClient.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Builder-Design-Pattern/builder-pattern-class-diagram.ucls" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Builder-Design-Pattern/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Builder-Design-Pattern/src/com/journaldev/beans/Computer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Builder-Design-Pattern/src/com/journaldev/beans/ComputerBuilderDirector.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Builder-Design-Pattern/src/com/journaldev/test/ComputerClient.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/factory-pattern-class-diagram.ucls" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/pom.xml" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/src/com/journaldev/beans/Computer.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/src/com/journaldev/beans/PC.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/src/com/journaldev/beans/Server.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/src/com/journaldev/factory/ComputerFactory.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/src/com/journaldev/factory/ComputerType.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/Factory-Design-Pattern/src/com/journaldev/test/ComputerClient.java" beforeDir="false" />
+      <change beforePath="E:/journaldev-master/java-design-patterns/README.md" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/.gitignore" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/.idea/.name" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/.gitignore" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/build.gradle" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/build.gradle" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/gradle.properties" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/gradlew" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/gradlew.bat" beforeDir="false" />
+      <change beforePath="E:/learning Android studio/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28_-_pie" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sora_1.1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sora_1.1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sora_1.1">
+      <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24" module="app" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gm.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/fbk.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ldn.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_1.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_3.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_4.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_5.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_6.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_7.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_8.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_9.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/shop.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/twit.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/virus.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/india.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/insta.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/logo2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_10.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_11.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_12.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/mb_13.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/world.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/curfew.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/doctor.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/doctor1.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/doctor2.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/doctor3.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/donate.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic8.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/travel.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic1.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic3.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic4.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic5.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic6.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/gg_pic7.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/patient.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/pp_eng1.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/pp_eng2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/pp_eng3.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_3.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_4.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_5.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_6.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_7.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_8.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_9.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_1.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_3.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_4.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_5.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_6.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_7.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/story_8.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/web_view.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_10.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_11.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_12.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_13.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_14.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_15.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_16.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_17.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_18.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_19.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_20.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_21.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_22.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_23.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_24.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_25.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_26.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_27.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_28.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_29.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_30.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_31.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_32.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_33.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_34.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_35.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_36.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_37.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/state_38.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/telegram.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/whatsapp.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/hospitals.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/languagew.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/pp_hindi1.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/pp_hindi2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/pp_hindi3.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/recovered.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/tombstone.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/arrow_right.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/government.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_0.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_1.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_2.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_3.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_4.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_5.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_6.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_7.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_8.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_9.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/technology.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/sore_throat.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_10.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_11.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_12.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_13.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_14.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_15.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_16.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_17.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_18.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_19.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_20.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_21.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_22.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_23.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_24.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_25.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_26.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_27.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_28.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_29.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_30.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_31.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_32.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_33.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_34.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_35.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_36.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ss_state_37.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/custom_button.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/splash_screen.webp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/module_background.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/tool_bar_background.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="E:\hndCG.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1ZnAvInehu8ziMMoyfqOJUCuNPZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="5200555ab432c4e3" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-25T13:01:14.267Z" />
+    <property name="ExportApk.ApkPath" value="D:\sora_11\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="5200555ab432c4e3&#10;Pixel_2_XL_API_29" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.290784879">
+      <recent name="com.chhattisgarh.sora_11.Module" />
+      <recent name="com.chhattisgarh.sora_11" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.sora_11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\For android\sora_11\app\src\main\java\com\example\sora_11\Refresh" />
+      <recent name="D:\ANDROID PROJECTS\sora_11\app\src\main\res\font" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.punjab.sora_11" />
+      <recent name="com.punjab.sora_11.Module" />
+      <recent name="com.punjab.sora_11.Login_Task" />
+      <recent name="com.kco.sora_11" />
+      <recent name="com.kco.sora_11.District_Data" />
+    </key>
+    <key name="android.template.983633135">
+      <recent name="com.punjab.sora_11.Module" />
+    </key>
+    <key name="android.template.1912226396">
+      <recent name="com.chhattisgarh.sora_11.Module" />
+    </key>
+    <key name="android.template.1370846817">
+      <recent name="com.punjab.sora_11.Module" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.sora_11" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\STATES\Chhattisgarh\app\src\main\res\drawable-v24" />
+      <recent name="E:\STATES\Orissa\app\src\main\res\drawable-v24" />
+      <recent name="E:\STATES\Punjab\app\src\main\res\drawable-v24" />
+      <recent name="E:\STATES\Punjab\app\src\main\res\drawable-v1" />
+      <recent name="E:\sora_11\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kco.sora_11" />
+      <recent name="com.example.sora_11" />
+    </key>
+    <key name="android.template.1110761664">
+      <recent name="com.odisha.sora_11.Module" />
+    </key>
+    <key name="android.template.-1817903645">
+      <recent name="com.chhattisgarh.sora_11.Module" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f32c5aae-8e2e-4e41-bccc-12e44862a1eb" name="Default Changelist" comment="" />
+      <created>1585464713074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585464713074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/app" />
+      <path value="$PROJECT_DIR$/../GIT" />
+    </ignored-roots>
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Gradle" timestamp="1607409059520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Gradle/0.0.1536.824@0.0.1536.824" timestamp="1607409059520" />
+    <state x="261" y="0" key="#Notifications" timestamp="1604492668955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1604492668955" />
+    <state x="446" y="0" key="#app" timestamp="1607409278524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="0" key="#app/0.0.1536.824@0.0.1536.824" timestamp="1607409278524" />
+    <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1607409053883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607409053883" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1607407749287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607407749287" />
+    <state x="386" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1607424100327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1607424100327" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1606897589989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606897589989" />
+  </component>
+</project>

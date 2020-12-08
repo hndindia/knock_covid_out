@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.YarikSOffice:lingver:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9ba20f4e84c4de07e52238888a2a66e/jetified-lingver-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9ba20f4e84c4de07e52238888a2a66e/jetified-lingver-1.2.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.YarikSOffice/lingver/1.2.2/e6d2291b0d1321d6f398d324c403cb1e48ea16d8/lingver-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
