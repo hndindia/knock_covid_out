@@ -248,9 +248,9 @@ public class MainActivity<userState> extends AppCompatActivity {
         volunteer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //startActivity(new Intent(MainActivity.this, BecomeVolunteer.class));
 
                 openUrl("https://self4society.mygov.in/");
+                //webview
             }
         });
 
@@ -397,8 +397,6 @@ public class MainActivity<userState> extends AppCompatActivity {
 //                startActivity(intent);
 //            }
 //        });
-
-
 
 
         SharedPreferences userDetails = context.getSharedPreferences("userdetails", MODE_PRIVATE);
