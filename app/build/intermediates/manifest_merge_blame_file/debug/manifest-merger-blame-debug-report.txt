@@ -1,0 +1,354 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.chhattisgarh.sora_11"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:5:5-69
+11-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:5:22-66
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:6:5-67
+12-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:7:5-81
+13-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:8:5-80
+14-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\90eb1c87fd35ba6ed054e59a75813be9\jetified-core-10.0.5\AndroidManifest.xml:12:5-79
+15-->[com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\90eb1c87fd35ba6ed054e59a75813be9\jetified-core-10.0.5\AndroidManifest.xml:12:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:25:5-68
+16-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:25:22-65
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+17-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:26:22-107
+18    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+18-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+18-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+19
+20    <application
+20-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:10:5-93:19
+21        android:allowBackup="true"
+21-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:11:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d8e6145ebd5f6e1099b739484795a4bd\core-1.1.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@drawable/logo2"
+24-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:12:9-39
+25        android:label="@string/app_name"
+25-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:13:9-41
+26        android:supportsRtl="true"
+26-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:14:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:15:9-40
+29        <activity android:name="com.chhattisgarh.sora_11.Module.StateDonateActivity" />
+29-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:16:9-73
+29-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:16:19-61
+30        <activity android:name="com.chhattisgarh.sora_11.Module.travelEpassActivity" />
+30-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:17:9-64
+30-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:17:19-61
+31        <activity android:name="com.chhattisgarh.sora_11.SourceMainActivity" />
+31-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:18:9-56
+31-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:18:19-53
+32        <activity android:name="com.chhattisgarh.sora_11.Module.TwitterHandels" />
+32-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:19:9-59
+32-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:19:19-56
+33        <activity android:name="com.chhattisgarh.sora_11.Module.NationalCareerServiceActivity" />
+33-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:20:9-74
+33-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:20:19-71
+34        <activity android:name="com.chhattisgarh.sora_11.LoginActivity_Firebase" />
+34-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:21:9-60
+34-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:21:19-57
+35        <activity android:name="com.chhattisgarh.sora_11.Module.MedicalStores" />
+35-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:22:9-58
+35-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:22:19-55
+36        <activity android:name="com.chhattisgarh.sora_11.Module.OrphanageForm" />
+36-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:23:9-58
+36-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:23:19-55
+37        <activity android:name="com.chhattisgarh.sora_11.Login_Task.Signup" />
+37-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:24:9-55
+37-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:24:19-52
+38        <activity android:name="com.chhattisgarh.sora_11.Login_Task.Login" />
+38-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:25:9-54
+38-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:25:19-51
+39        <activity android:name="com.chhattisgarh.sora_11.Module.BecomeVolunteer" />
+39-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:26:9-60
+39-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:26:19-57
+40        <activity android:name="com.chhattisgarh.sora_11.Module.Courses_Module" />
+40-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:27:9-59
+40-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:27:19-56
+41        <activity android:name="com.chhattisgarh.sora_11.Module.MoreModule" />
+41-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:28:9-55
+41-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:28:19-52
+42        <activity android:name="com.chhattisgarh.sora_11.ViewProfile" />
+42-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:29:9-49
+42-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:29:19-46
+43        <activity android:name="com.chhattisgarh.sora_11.District_Select" />
+43-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:30:9-53
+43-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:30:19-50
+44        <activity android:name="com.chhattisgarh.sora_11.Module.Hospitals_List" />
+44-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:31:9-59
+44-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:31:19-56
+45        <activity android:name="com.chhattisgarh.sora_11.MAin2Activity" />
+45-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:32:9-51
+45-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:32:19-48
+46        <activity android:name="com.chhattisgarh.sora_11.District_Data.DistrictData" />
+46-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:33:9-64
+46-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:33:19-61
+47        <activity android:name="com.chhattisgarh.sora_11.Donation_state" />
+47-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:34:9-52
+47-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:34:19-49
+48        <activity android:name="com.chhattisgarh.sora_11.Country_Wise_Data" />
+48-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:35:9-55
+48-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:35:19-52
+49        <activity android:name="com.chhattisgarh.sora_11.State_Wise_Data" />
+49-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:36:9-53
+49-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:36:19-50
+50
+51        <service android:name="com.chhattisgarh.sora_11.Fetch_Data.UpdateDataInBackground" />
+51-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:38:9-70
+51-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:38:18-67
+52
+53        <activity android:name="com.chhattisgarh.sora_11.Select_State.Select_State" />
+53-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:40:9-63
+53-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:40:19-60
+54        <activity android:name="com.chhattisgarh.sora_11.Myth_Buster" />
+54-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:41:9-49
+54-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:41:19-46
+55        <activity android:name="com.chhattisgarh.sora_11.About.Terms_Of_Uses" />
+55-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:42:9-57
+55-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:42:19-54
+56        <activity android:name="com.chhattisgarh.sora_11.About.Terms_And_Conditions" />
+56-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:43:9-64
+56-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:43:19-61
+57        <activity android:name="com.chhattisgarh.sora_11.FAQ.FOR_MORE_FAQ" />
+57-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:44:9-54
+57-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:44:19-51
+58        <activity android:name="com.chhattisgarh.sora_11.FAQ.FAQ_In_ENG" />
+58-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:45:9-52
+58-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:45:19-49
+59        <activity
+59-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:46:9-48:52
+60            android:name="com.chhattisgarh.sora_11.Corona_Hospitals"
+60-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:47:13-45
+61            android:screenOrientation="portrait" />
+61-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:48:13-49
+62        <activity
+62-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:49:9-51:52
+63            android:name="com.chhattisgarh.sora_11.Contact_us"
+63-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:50:13-39
+64            android:screenOrientation="portrait" />
+64-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:51:13-49
+65        <activity
+65-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:52:9-55:52
+66            android:name="com.chhattisgarh.sora_11.Splash_And_Story.Story_main"
+66-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:53:13-56
+67            android:noHistory="true"
+67-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:54:13-37
+68            android:screenOrientation="portrait" />
+68-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:55:13-49
+69        <activity
+69-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:56:9-65:20
+70            android:name="com.chhattisgarh.sora_11.Splash_And_Story.Splash_animation"
+70-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:57:13-62
+71            android:noHistory="true"
+71-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:58:13-37
+72            android:screenOrientation="portrait" >
+72-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:59:13-49
+73            <intent-filter>
+73-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:60:13-64:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:61:17-69
+74-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:61:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:63:17-77
+76-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:63:27-74
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:66:9-68:52
+80            android:name="com.chhattisgarh.sora_11.web_main"
+80-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:67:13-37
+81            android:screenOrientation="portrait" />
+81-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:68:13-49
+82        <activity
+82-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:69:9-71:52
+83            android:name="com.chhattisgarh.sora_11.UsefulLinks"
+83-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:70:13-40
+84            android:screenOrientation="portrait" />
+84-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:71:13-49
+85        <activity
+85-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:72:9-74:52
+86            android:name="com.chhattisgarh.sora_11.Prevention_products.PreventionProducts"
+86-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:73:13-67
+87            android:screenOrientation="portrait" />
+87-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:74:13-49
+88        <activity
+88-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:75:9-77:52
+89            android:name="com.chhattisgarh.sora_11.General_awareness.GeneralAwareness"
+89-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:76:13-63
+90            android:screenOrientation="portrait" />
+90-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:77:13-49
+91        <activity
+91-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:78:9-80:52
+92            android:name="com.chhattisgarh.sora_11.Symptom_Precaution"
+92-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:79:13-47
+93            android:screenOrientation="portrait" />
+93-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:80:13-49
+94        <activity
+94-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:81:9-83:52
+95            android:name="com.chhattisgarh.sora_11.ContactForHelp"
+95-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:82:13-43
+96            android:screenOrientation="portrait" />
+96-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:83:13-49
+97        <activity
+97-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:84:9-86:52
+98            android:name="com.chhattisgarh.sora_11.About.About_main"
+98-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:85:13-45
+99            android:screenOrientation="portrait" />
+99-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:86:13-49
+100        <activity
+100-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:87:9-89:52
+101            android:name="com.chhattisgarh.sora_11.FAQ.FAQ_main"
+101-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:88:13-41
+102            android:screenOrientation="portrait" />
+102-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:89:13-49
+103        <activity
+103-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:90:9-92:52
+104            android:name="com.chhattisgarh.sora_11.MainActivity"
+104-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:91:13-41
+105            android:screenOrientation="portrait" />
+105-->E:\STATES\Chhattisgarh\app\src\main\AndroidManifest.xml:92:13-49
+106
+107        <receiver
+107-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:29:9-33:20
+108            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+108-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:30:13-85
+109            android:enabled="true"
+109-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:31:13-35
+110            android:exported="false" >
+110-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:32:13-37
+111        </receiver>
+112
+113        <service
+113-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:35:9-38:40
+114            android:name="com.google.android.gms.measurement.AppMeasurementService"
+114-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:36:13-84
+115            android:enabled="true"
+115-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:37:13-35
+116            android:exported="false" />
+116-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:38:13-37
+117        <service
+117-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:39:9-43:72
+118            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+118-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:40:13-87
+119            android:enabled="true"
+119-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:41:13-35
+120            android:exported="false"
+120-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:42:13-37
+121            android:permission="android.permission.BIND_JOB_SERVICE" />
+121-->[com.google.android.gms:play-services-measurement:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\4829f73642763f5e2b82f9ad4896fa98\jetified-play-services-measurement-17.4.2\AndroidManifest.xml:43:13-69
+122        <service
+122-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\192b20953364b075fbb356d0447bfafd\jetified-play-services-measurement-api-17.4.2\AndroidManifest.xml:27:9-33:19
+123            android:name="com.google.firebase.components.ComponentDiscoveryService"
+123-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\192b20953364b075fbb356d0447bfafd\jetified-play-services-measurement-api-17.4.2\AndroidManifest.xml:28:13-84
+124            android:directBootAware="true"
+124-->[com.google.firebase:firebase-common:19.3.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+125            android:exported="false" >
+125-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\192b20953364b075fbb356d0447bfafd\jetified-play-services-measurement-api-17.4.2\AndroidManifest.xml:29:13-37
+126            <meta-data
+126-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\192b20953364b075fbb356d0447bfafd\jetified-play-services-measurement-api-17.4.2\AndroidManifest.xml:30:13-32:85
+127                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+127-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\192b20953364b075fbb356d0447bfafd\jetified-play-services-measurement-api-17.4.2\AndroidManifest.xml:31:17-139
+128                android:value="com.google.firebase.components.ComponentRegistrar" />
+128-->[com.google.android.gms:play-services-measurement-api:17.4.2] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\192b20953364b075fbb356d0447bfafd\jetified-play-services-measurement-api-17.4.2\AndroidManifest.xml:32:17-82
+129            <meta-data
+129-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+130                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+130-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+131                android:value="com.google.firebase.components.ComponentRegistrar" />
+131-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+132            <meta-data
+132-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+133                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+133-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+134                android:value="com.google.firebase.components.ComponentRegistrar" />
+134-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+135            <meta-data
+135-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\a10816b9c03b948f6ceac3bfc820853e\jetified-firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
+136                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+136-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\a10816b9c03b948f6ceac3bfc820853e\jetified-firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
+137                android:value="com.google.firebase.components.ComponentRegistrar" />
+137-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\a10816b9c03b948f6ceac3bfc820853e\jetified-firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
+138        </service>
+139
+140        <receiver
+140-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+141            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+141-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+142            android:exported="true"
+142-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+143            android:permission="com.google.android.c2dm.permission.SEND" >
+143-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+144            <intent-filter>
+144-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+145                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+145-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+145-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\d0e73e77498584566051e107c3add793\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+146            </intent-filter>
+147        </receiver>
+148
+149        <activity
+149-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+150            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+150-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+151            android:excludeFromRecents="true"
+151-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+152            android:exported="true"
+152-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+153            android:launchMode="singleTask"
+153-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+154            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+154-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+155            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+155-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\6a061e696eb124871a098c07f4a015d3\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+156        <activity
+156-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+157            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+157-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+158            android:exported="false"
+158-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+159            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+159-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\8d306c96d5671c46c09e41df093ec68f\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+160
+161        <provider
+161-->[com.google.firebase:firebase-common:19.3.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+162            android:name="com.google.firebase.provider.FirebaseInitProvider"
+162-->[com.google.firebase:firebase-common:19.3.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+163            android:authorities="com.chhattisgarh.sora_11.firebaseinitprovider"
+163-->[com.google.firebase:firebase-common:19.3.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+164            android:exported="false"
+164-->[com.google.firebase:firebase-common:19.3.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+165            android:initOrder="100" />
+165-->[com.google.firebase:firebase-common:19.3.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\89e8c50f4adcfa71f0d90282494b2c06\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+166
+167        <meta-data
+167-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+168            android:name="com.google.android.gms.version"
+168-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+169            android:value="@integer/google_play_services_version" />
+169-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\karan siddhu\.gradle\caches\transforms-2\files-2.1\f2c8b4624d1269ee053bd8db8444a9c2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+170    </application>
+171
+172</manifest>

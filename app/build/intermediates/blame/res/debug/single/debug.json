@@ -1,0 +1,906 @@
+[
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headache.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\headache.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hospitals.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\hospitals.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_2.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_2.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_8.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_8.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\background.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_ncs.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_ncs.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_5.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_5.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_national_career_service.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_national_career_service.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_washing_hands.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\washing_hands.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_black_24dp.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_check_symptom.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_check_symptom.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ldn.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\ldn.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_11.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_11.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_profile.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_view_profile.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_hide_layout.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\hide_layout.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_courses__module.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_courses__module.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_death.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\death.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_internshal.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\internshal.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_12.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_12.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_more_module.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_more_module.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_jobs_for_disable.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_jobs_for_disable.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fab_background.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_contact_icon.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\contact_icon.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_button.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\custom_button.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_gov_jobs.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_gov_jobs.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_learnvern.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\learnvern.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tcs.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\tcs.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_1.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_1.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_jobsforwomen.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_jobsforwomen.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pp_hindi3.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\pp_hindi3.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select__state.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_select__state.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v1_module_medical_stores.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v1\\module_medical_stores.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pp_hindi2.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\pp_hindi2.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_keep_your_mouth_covered.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\keep_your_mouth_covered.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_district__select.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_district__select.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pp_hindi1.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\pp_hindi1.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_gui.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_gui.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_p_p__h_i_n_d_i_.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\fragment_p_p__h_i_n_d_i_.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_udemy.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\udemy.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_become_volunteer.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_become_volunteer.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_active.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\active.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_career_counss.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_career_counss.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_13.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_13.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_for_more_f_a_q.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_for_more_f_a_q.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_telegram.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\telegram.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_myth__buster.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_myth__buster.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_pressed.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\arrow_pressed.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_et_bg.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\et_bg.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_orphanage_form.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_orphanage_form.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nptel.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\nptel.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_6.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_6.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_arrow_right.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\arrow_right.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_state_wise_data.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_state_wise_data.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_source_main.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_source_main.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pp_eng2.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\pp_eng2.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_donate.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\donate.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_4.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_4.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shop.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\shop.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_pressed.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_pressed.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_amity.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\amity.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v1_volunteer_module.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v1\\volunteer_module.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_terms__and__conditions.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_terms__and__conditions.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_more_module.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\more_module.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_terms__of__uses.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_terms__of__uses.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_quotes_background.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\news_quotes_background.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo2.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\logo2.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_district_data.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_district_data.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_4.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_4.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_travel_epass.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_travel_epass.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_confirmed.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\confirmed.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_general_awareness.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_general_awareness.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_coursera.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\coursera.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_eskill_india.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\eskill_india.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_links_dialogbox.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\links_dialogbox.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_p_p__e_n_g_i_s_h_.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\fragment_p_p__e_n_g_i_s_h_.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_doctor.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\doctor.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_2.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_2.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_6.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_6.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_curfew.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\curfew.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_default.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\arrow_default.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fbk.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\fbk.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_5.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_5.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_recovered.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\recovered.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_8.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_8.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cough.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\cough.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_useful_links.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_useful_links.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_career_info.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_career_info.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_whatsapp.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\whatsapp.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_check_symptom.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_check_symptom.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pp_eng1.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\pp_eng1.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_main.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_about_main.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_screen.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\splash_screen.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_default.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_default.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_show_button.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\show_button.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_state_21.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\state_21.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tombstone.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\tombstone.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login__firebase.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_login__firebase.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avoid_sick_people.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\avoid_sick_people.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v1_tranining_courses.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v1\\tranining_courses.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_languagew.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\languagew.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_layout.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\slide_layout.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_find_jobs.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_find_jobs.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_insta.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\insta.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_world.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\world.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_runny_nose.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\runny_nose.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v1_skill_sigma.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v1\\skill_sigma.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_9.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_9.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_difficulty_in_breathing.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\difficulty_in_breathing.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_twit.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\twit.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donation_state.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_donation_state.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_linkedin.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\linkedin.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_state_18.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\state_18.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_tranparent.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xhdpi\\tranparent.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_virus.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\virus.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_alison.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\alison.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stay_home_if_infected.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\stay_home_if_infected.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_button.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\default_button.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_twitter_handels.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_twitter_handels.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_animation.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_splash_animation.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medical_stores.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_medical_stores.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fever.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\fever.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_state_16.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\state_16.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_do_not_touch_your_face.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\do_not_touch_your_face.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_government.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\government.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tranparent.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-mdpi\\tranparent.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hospitals__list.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_hospitals__list.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maintain_cleanliness.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\maintain_cleanliness.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_10.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_10.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gm.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\gm.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_tranparent.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xxxhdpi\\tranparent.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v1_module_counseling.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v1\\module_counseling.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\font_helvetica.ttf.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\font\\helvetica.ttf"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v1_module_donate_food.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v1\\module_donate_food.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_start_up_india.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\start_up_india.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_web_main.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_web_main.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share_white_24dp.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share_white_24dp.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_pib_facts.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_pib_facts.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_security_privacy.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\security_privacy.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_technology.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\technology.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\menu_my_menu.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\menu\\my_menu.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone_white_24dp.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone_white_24dp.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_back_ground.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_back_ground.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_travel.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\travel.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_preb_bytes.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\preb_bytes.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_india.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\india.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_iibm_india.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\iibm_india.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pp_eng3.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\pp_eng3.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_7.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_7.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_3.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_3.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_pressed.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_hide_button.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\hide_button.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_patient.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\patient.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_1.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_1.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_bhim.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_bhim.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_f_a_q_main.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_f_a_q_main.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_corona__hospitals.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_corona__hospitals.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\font_actor.ttf.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\font\\actor.ttf"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_web_view.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\web_view.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_tranparent.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-xxhdpi\\tranparent.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_for_help.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_contact_for_help.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_prevention_products.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_prevention_products.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_forward_black_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_forward_black_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sore_throat.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\sore_throat.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone_white_24dp.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone_white_24dp.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_orphanage_form.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_orphanage_form.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_state_donate.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_state_donate.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_country__wise__data.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_country__wise__data.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_module_msme.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\module_msme.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_story_main.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\activity_story_main.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_tranparent.png.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-hdpi\\tranparent.png"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mb_3.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\mb_3.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_more.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edit_icon.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\edit_icon.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_story_7.webp.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\drawable-v24\\story_7.webp"
+    },
+    {
+        "merged": "E:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\res\\merged\\debug\\anim_show_layout.xml.flat",
+        "source": "E:\\STATES\\Chhattisgarh\\app\\src\\main\\res\\anim\\show_layout.xml"
+    }
+]

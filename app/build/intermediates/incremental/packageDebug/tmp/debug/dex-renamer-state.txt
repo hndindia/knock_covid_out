@@ -1,0 +1,4 @@
+#Tue Dec 08 12:05:15 IST 2020
+base.0=E\:\\STATES\\Chhattisgarh\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

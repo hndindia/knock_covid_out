@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chhattisgarh.sora_11"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/logo2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.chhattisgarh.sora_11.Module.StateDonateActivity" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.travelEpassActivity" />
+        <activity android:name="com.chhattisgarh.sora_11.SourceMainActivity" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.TwitterHandels" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.NationalCareerServiceActivity" />
+        <activity android:name="com.chhattisgarh.sora_11.LoginActivity_Firebase" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.MedicalStores" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.OrphanageForm" />
+        <activity android:name="com.chhattisgarh.sora_11.Login_Task.Signup" />
+        <activity android:name="com.chhattisgarh.sora_11.Login_Task.Login" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.BecomeVolunteer" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.Courses_Module" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.MoreModule" />
+        <activity android:name="com.chhattisgarh.sora_11.ViewProfile" />
+        <activity android:name="com.chhattisgarh.sora_11.District_Select" />
+        <activity android:name="com.chhattisgarh.sora_11.Module.Hospitals_List" />
+        <activity android:name="com.chhattisgarh.sora_11.MAin2Activity" />
+        <activity android:name="com.chhattisgarh.sora_11.District_Data.DistrictData" />
+        <activity android:name="com.chhattisgarh.sora_11.Donation_state" />
+        <activity android:name="com.chhattisgarh.sora_11.Country_Wise_Data" />
+        <activity android:name="com.chhattisgarh.sora_11.State_Wise_Data" />
+
+        <service android:name="com.chhattisgarh.sora_11.Fetch_Data.UpdateDataInBackground" />
+
+        <activity android:name="com.chhattisgarh.sora_11.Select_State.Select_State" />
+        <activity android:name="com.chhattisgarh.sora_11.Myth_Buster" />
+        <activity android:name="com.chhattisgarh.sora_11.About.Terms_Of_Uses" />
+        <activity android:name="com.chhattisgarh.sora_11.About.Terms_And_Conditions" />
+        <activity android:name="com.chhattisgarh.sora_11.FAQ.FOR_MORE_FAQ" />
+        <activity android:name="com.chhattisgarh.sora_11.FAQ.FAQ_In_ENG" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.Corona_Hospitals"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.Contact_us"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.Splash_And_Story.Story_main"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.Splash_And_Story.Splash_animation"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chhattisgarh.sora_11.web_main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.UsefulLinks"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.Prevention_products.PreventionProducts"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.General_awareness.GeneralAwareness"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.Symptom_Precaution"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.ContactForHelp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.About.About_main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.FAQ.FAQ_main"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.chhattisgarh.sora_11.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.chhattisgarh.sora_11.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>
